@@ -12154,6 +12154,10 @@
                       "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/009_Zhangjiajie/009_CHINA.mp3"
                     },
                     {
+                      "name": "009_GranCañon_2.png",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/009_Zhangjiajie/009_GranCa%C3%B1on_2.png"
+                    },
+                    {
                       "name": "009_Zhangjiajie.jpg",
                       "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/009_Zhangjiajie/009_Zhangjiajie.jpg"
                     }
@@ -12369,6 +12373,10 @@
                     {
                       "name": "011_CHINA.mp3",
                       "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/011_Furong%20a%20Guilin/011_CHINA.mp3"
+                    },
+                    {
+                      "name": "011_Furong_Guillin_3.png",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/011_Furong%20a%20Guilin/011_Furong_Guillin_3.png"
                     },
                     {
                       "name": "011_Zhangjiajie.jpg",
@@ -12625,6 +12633,10 @@
                       "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/013_Guilin%20a%20Hangzhou/013_CHINA.mp3"
                     },
                     {
+                      "name": "013_Vuelo a Hangzhou_2.png",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/013_Guilin%20a%20Hangzhou/013_Vuelo%20a%20Hangzhou_2.png"
+                    },
+                    {
                       "name": "013_Zhangjiajie.jpg",
                       "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/013_Guilin%20a%20Hangzhou/013_Zhangjiajie.jpg"
                     }
@@ -12690,6 +12702,26 @@
                       "children": [],
                       "files": [
                         {
+                          "name": "014_Templo Alma Escondida_1.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/014_Hangzhou/002_Templo%20Alma%20Escondida/014_Templo%20Alma%20Escondida_1.png"
+                        },
+                        {
+                          "name": "014_Templo Alma Escondida_2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/014_Hangzhou/002_Templo%20Alma%20Escondida/014_Templo%20Alma%20Escondida_2.png"
+                        },
+                        {
+                          "name": "014_Templo Alma Escondida_3.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/014_Hangzhou/002_Templo%20Alma%20Escondida/014_Templo%20Alma%20Escondida_3.png"
+                        },
+                        {
+                          "name": "014_Templo Alma Escondida_4.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/014_Hangzhou/002_Templo%20Alma%20Escondida/014_Templo%20Alma%20Escondida_4.png"
+                        },
+                        {
+                          "name": "014_Templo Alma Escondida_5.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/014_Hangzhou/002_Templo%20Alma%20Escondida/014_Templo%20Alma%20Escondida_5.png"
+                        },
+                        {
                           "name": "D14_temploAlmaEscondida.jpg",
                           "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/014_Hangzhou/002_Templo%20Alma%20Escondida/D14_temploAlmaEscondida.jpg"
                         },
@@ -12720,6 +12752,22 @@
                       "name": "003_Pagoda Seis Armonías",
                       "children": [],
                       "files": [
+                        {
+                          "name": "014_PagodaSeisArmonias_1.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/014_Hangzhou/003_Pagoda%20Seis%20Armon%C3%ADas/014_PagodaSeisArmonias_1.png"
+                        },
+                        {
+                          "name": "014_PagodaSeisArmonias_2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/014_Hangzhou/003_Pagoda%20Seis%20Armon%C3%ADas/014_PagodaSeisArmonias_2.png"
+                        },
+                        {
+                          "name": "014_PagodaSeisArmonias_3.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/014_Hangzhou/003_Pagoda%20Seis%20Armon%C3%ADas/014_PagodaSeisArmonias_3.png"
+                        },
+                        {
+                          "name": "014_PagodaSeisArmonias_4.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/014_Hangzhou/003_Pagoda%20Seis%20Armon%C3%ADas/014_PagodaSeisArmonias_4.png"
+                        },
                         {
                           "name": "D14_Pagoda6Armonias.jpg",
                           "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/014_Hangzhou/003_Pagoda%20Seis%20Armon%C3%ADas/D14_Pagoda6Armonias.jpg"
@@ -12754,6 +12802,10 @@
                       "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/014_Hangzhou/014_CHINA.mp3"
                     },
                     {
+                      "name": "014_Templo Alma Escondida_3.png",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/014_Hangzhou/014_Templo%20Alma%20Escondida_3.png"
+                    },
+                    {
                       "name": "014_Zhangjiajie.jpg",
                       "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/014_Hangzhou/014_Zhangjiajie.jpg"
                     }
@@ -12771,6 +12823,22 @@
                       "name": "001_Jardines Clásicos",
                       "children": [],
                       "files": [
+                        {
+                          "name": "015_JardinesClasicos_1.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/015_Hangzhou%20a%20Suzhou/001_Jardines%20Cl%C3%A1sicos/015_JardinesClasicos_1.png"
+                        },
+                        {
+                          "name": "015_JardinesClasicos_2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/015_Hangzhou%20a%20Suzhou/001_Jardines%20Cl%C3%A1sicos/015_JardinesClasicos_2.png"
+                        },
+                        {
+                          "name": "015_JardinesClasicos_3.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/015_Hangzhou%20a%20Suzhou/001_Jardines%20Cl%C3%A1sicos/015_JardinesClasicos_3.png"
+                        },
+                        {
+                          "name": "015_JardinesClasicos_4.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/015_Hangzhou%20a%20Suzhou/001_Jardines%20Cl%C3%A1sicos/015_JardinesClasicos_4.png"
+                        },
                         {
                           "name": "D15_JardinesClasicos.jpg",
                           "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/015_Hangzhou%20a%20Suzhou/001_Jardines%20Cl%C3%A1sicos/D15_JardinesClasicos.jpg"
@@ -12803,6 +12871,18 @@
                       "children": [],
                       "files": [
                         {
+                          "name": "015_Colina del Tigre_1.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/015_Hangzhou%20a%20Suzhou/002_Colina%20Tigre/015_Colina%20del%20Tigre_1.png"
+                        },
+                        {
+                          "name": "015_Colina del Tigre_2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/015_Hangzhou%20a%20Suzhou/002_Colina%20Tigre/015_Colina%20del%20Tigre_2.png"
+                        },
+                        {
+                          "name": "015_Colina del Tigre_3.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/015_Hangzhou%20a%20Suzhou/002_Colina%20Tigre/015_Colina%20del%20Tigre_3.png"
+                        },
+                        {
                           "name": "D15_ColinaDelTigre.jpg",
                           "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/015_Hangzhou%20a%20Suzhou/002_Colina%20Tigre/D15_ColinaDelTigre.jpg"
                         },
@@ -12833,6 +12913,14 @@
                       "name": "003_Jardín Pescador",
                       "children": [],
                       "files": [
+                        {
+                          "name": "015_Jardin del Pescador_1.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/015_Hangzhou%20a%20Suzhou/003_Jard%C3%ADn%20Pescador/015_Jardin%20del%20Pescador_1.png"
+                        },
+                        {
+                          "name": "015_Jardin del Pescador_2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/015_Hangzhou%20a%20Suzhou/003_Jard%C3%ADn%20Pescador/015_Jardin%20del%20Pescador_2.png"
+                        },
                         {
                           "name": "D15_JardinesDelPescador.jpeg",
                           "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/015_Hangzhou%20a%20Suzhou/003_Jard%C3%ADn%20Pescador/D15_JardinesDelPescador.jpeg"
@@ -13087,7 +13175,44 @@
                     {
                       "name": "Día libre",
                       "children": [],
-                      "files": [],
+                      "files": [
+                        {
+                          "name": "017_DiaLibre_1.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/017_Shanghai/D%C3%ADa%20libre/017_DiaLibre_1.jpg"
+                        },
+                        {
+                          "name": "017_DiaLibre_1.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/017_Shanghai/D%C3%ADa%20libre/017_DiaLibre_1.png"
+                        },
+                        {
+                          "name": "017_DiaLibre_2.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/017_Shanghai/D%C3%ADa%20libre/017_DiaLibre_2.jpg"
+                        },
+                        {
+                          "name": "017_DiaLibre_2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/017_Shanghai/D%C3%ADa%20libre/017_DiaLibre_2.png"
+                        },
+                        {
+                          "name": "017_DiaLibre_3.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/017_Shanghai/D%C3%ADa%20libre/017_DiaLibre_3.jpg"
+                        },
+                        {
+                          "name": "017_DiaLibre_3.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/017_Shanghai/D%C3%ADa%20libre/017_DiaLibre_3.png"
+                        },
+                        {
+                          "name": "017_DiaLibre_4.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/017_Shanghai/D%C3%ADa%20libre/017_DiaLibre_4.jpg"
+                        },
+                        {
+                          "name": "017_DiaLibre_4.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/017_Shanghai/D%C3%ADa%20libre/017_DiaLibre_4.png"
+                        },
+                        {
+                          "name": "017_DiaLibre_5.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/017_Shanghai/D%C3%ADa%20libre/017_DiaLibre_5.png"
+                        }
+                      ],
                       "pinPos": {
                         "x": 0,
                         "y": 0,
@@ -15836,6 +15961,26 @@
                         {
                           "name": "003_Polonnaruwa5.jpg",
                           "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Sri%20Lanka/Sri%20lanka/003_Dambulla/001_Polonnaruwa/003_Polonnaruwa5.jpg"
+                        },
+                        {
+                          "name": "Polonnaruwa_01.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Sri%20Lanka/Sri%20lanka/003_Dambulla/001_Polonnaruwa/Polonnaruwa_01.png"
+                        },
+                        {
+                          "name": "Polonnaruwa_02.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Sri%20Lanka/Sri%20lanka/003_Dambulla/001_Polonnaruwa/Polonnaruwa_02.png"
+                        },
+                        {
+                          "name": "Polonnaruwa_03.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Sri%20Lanka/Sri%20lanka/003_Dambulla/001_Polonnaruwa/Polonnaruwa_03.png"
+                        },
+                        {
+                          "name": "Polonnaruwa_04.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Sri%20Lanka/Sri%20lanka/003_Dambulla/001_Polonnaruwa/Polonnaruwa_04.png"
+                        },
+                        {
+                          "name": "Polonnaruwa_05.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Sri%20Lanka/Sri%20lanka/003_Dambulla/001_Polonnaruwa/Polonnaruwa_05.png"
                         }
                       ]
                     },
@@ -15846,6 +15991,10 @@
                         {
                           "name": "003_SafariDambulla1.jpg",
                           "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Sri%20Lanka/Sri%20lanka/003_Dambulla/002_Safari%20Dambulla/003_SafariDambulla1.jpg"
+                        },
+                        {
+                          "name": "003_SafariDambulla1.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Sri%20Lanka/Sri%20lanka/003_Dambulla/002_Safari%20Dambulla/003_SafariDambulla1.mp4"
                         },
                         {
                           "name": "003_SafariDambulla2.jpg",
