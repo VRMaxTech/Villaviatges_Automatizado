@@ -13003,16 +13003,20 @@
                       "children": [],
                       "files": [
                         {
-                          "name": "016_TorreJinmao_1.png",
-                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/016_Suzhou%20a%20Shanghai/001_Torre%20Jinmao/016_TorreJinmao_1.png"
+                          "name": "016_TorreJinmao_01.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/016_Suzhou%20a%20Shanghai/001_Torre%20Jinmao/016_TorreJinmao_01.png"
                         },
                         {
-                          "name": "016_TorreJinmao_2.png",
-                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/016_Suzhou%20a%20Shanghai/001_Torre%20Jinmao/016_TorreJinmao_2.png"
+                          "name": "016_TorreJinmao_02.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/016_Suzhou%20a%20Shanghai/001_Torre%20Jinmao/016_TorreJinmao_02.png"
                         },
                         {
-                          "name": "016_TorreJinmao_3.png",
-                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/016_Suzhou%20a%20Shanghai/001_Torre%20Jinmao/016_TorreJinmao_3.png"
+                          "name": "016_TorreJinmao_03.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/016_Suzhou%20a%20Shanghai/001_Torre%20Jinmao/016_TorreJinmao_03.png"
+                        },
+                        {
+                          "name": "016_TorreJinmao_04.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/016_Suzhou%20a%20Shanghai/001_Torre%20Jinmao/016_TorreJinmao_04.png"
                         },
                         {
                           "name": "D16_JinMao.jpg",
@@ -13042,66 +13046,14 @@
                       }
                     },
                     {
-                      "name": "002_Colina Tigre",
+                      "name": "002_Malecón",
                       "children": [],
-                      "files": [
-                        {
-                          "name": "D15_ColinaDelTigre.jpg",
-                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/016_Suzhou%20a%20Shanghai/002_Colina%20Tigre/D15_ColinaDelTigre.jpg"
-                        },
-                        {
-                          "name": "D15_ColinaDelTigre2.jpg",
-                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/016_Suzhou%20a%20Shanghai/002_Colina%20Tigre/D15_ColinaDelTigre2.jpg"
-                        },
-                        {
-                          "name": "D15_ColinaDelTigre3.jpg",
-                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/016_Suzhou%20a%20Shanghai/002_Colina%20Tigre/D15_ColinaDelTigre3.jpg"
-                        },
-                        {
-                          "name": "D15_ColinaDelTigre4.jpg",
-                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/016_Suzhou%20a%20Shanghai/002_Colina%20Tigre/D15_ColinaDelTigre4.jpg"
-                        },
-                        {
-                          "name": "D15_ColinaDelTigre5.jpg",
-                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/016_Suzhou%20a%20Shanghai/002_Colina%20Tigre/D15_ColinaDelTigre5.jpg"
-                        }
-                      ],
-                      "pinPos": {
-                        "x": 0,
-                        "y": 0,
-                        "z": 0
-                      }
+                      "files": []
                     },
                     {
-                      "name": "003_Jardín Pescador",
+                      "name": "003_Templo Buda Jade",
                       "children": [],
-                      "files": [
-                        {
-                          "name": "D15_JardinesDelPescador.jpeg",
-                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/016_Suzhou%20a%20Shanghai/003_Jard%C3%ADn%20Pescador/D15_JardinesDelPescador.jpeg"
-                        },
-                        {
-                          "name": "D15_JardinesDelPescador2.jpg",
-                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/016_Suzhou%20a%20Shanghai/003_Jard%C3%ADn%20Pescador/D15_JardinesDelPescador2.jpg"
-                        },
-                        {
-                          "name": "D15_JardinesDelPescador3.jpg",
-                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/016_Suzhou%20a%20Shanghai/003_Jard%C3%ADn%20Pescador/D15_JardinesDelPescador3.jpg"
-                        },
-                        {
-                          "name": "D15_JardinesDelPescador4.jpg",
-                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/016_Suzhou%20a%20Shanghai/003_Jard%C3%ADn%20Pescador/D15_JardinesDelPescador4.jpg"
-                        },
-                        {
-                          "name": "D15_JardinesDelPescador5.jpg",
-                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/China/China/016_Suzhou%20a%20Shanghai/003_Jard%C3%ADn%20Pescador/D15_JardinesDelPescador5.jpg"
-                        }
-                      ],
-                      "pinPos": {
-                        "x": 0,
-                        "y": 0,
-                        "z": 0
-                      }
+                      "files": []
                     },
                     {
                       "name": "004_Casco Antiguo",
