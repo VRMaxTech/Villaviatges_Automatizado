@@ -1,3 +1,14 @@
 {
-  "entries": []
+  "entries": [
+    {
+      "path": "Am��rica Norte/Estados Unidos/Costa Oeste/012_Bahía de Los Ángeles",
+      "pinPos": {
+        "x": -0.27000001072883606,
+        "y": -0.18700000643730164,
+        "z": -0.1459999978542328
+      },
+      "files": [],
+      "remainingAutoRefreshes": 2
+    }
+  ]
 }
