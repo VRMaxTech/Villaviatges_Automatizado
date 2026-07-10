@@ -23982,6 +23982,216 @@
                 "y": -0.07199999690055847,
                 "z": -0.03099999949336052
               }
+            },
+            {
+              "name": "Vietnam",
+              "children": [
+                {
+                  "name": "Vietnam",
+                  "children": [
+                    {
+                      "name": "Dia_001",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "001_Vietnam.mp3",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_001/001_Vietnam.mp3"
+                        },
+                        {
+                          "name": "002_ho_chi_minh_003.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_001/002_ho_chi_minh_003.png"
+                        },
+                        {
+                          "name": "Día 1 LLegada.txt",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_001/D%C3%ADa%201%20LLegada.txt"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Dia_002",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "002_ho_chi_minh_001.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_002/002_ho_chi_minh_001.png"
+                        },
+                        {
+                          "name": "002_Vietnam.mp3",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_002/002_Vietnam.mp3"
+                        },
+                        {
+                          "name": "Día 2 Ho Chi Minh.txt",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_002/D%C3%ADa%202%20Ho%20Chi%20Minh.txt"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Dia_003",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "003_MercadoBenThanh_03.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_003/003_MercadoBenThanh_03.png"
+                        },
+                        {
+                          "name": "003_Vietnam.mp3",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_003/003_Vietnam.mp3"
+                        },
+                        {
+                          "name": "Día 3 Exploración.txt",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_003/D%C3%ADa%203%20Exploraci%C3%B3n.txt"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Dia_004",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "004_Delta_Mekong.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_004/004_Delta_Mekong.png"
+                        },
+                        {
+                          "name": "004_Vietnam.mp3",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_004/004_Vietnam.mp3"
+                        },
+                        {
+                          "name": "Día 4 Delta del Mekong.txt",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_004/D%C3%ADa%204%20Delta%20del%20Mekong.txt"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Dia_005",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "005_PuenteJapones3.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_005/005_PuenteJapones3.png"
+                        },
+                        {
+                          "name": "005_Vietnam.mp3",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_005/005_Vietnam.mp3"
+                        },
+                        {
+                          "name": "Día 5 Explorando Hoian.txt",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_005/D%C3%ADa%205%20Explorando%20Hoian.txt"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Dia_006",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "006_HoiAn_01.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_006/006_HoiAn_01.png"
+                        },
+                        {
+                          "name": "006_Vietnam.mp3",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_006/006_Vietnam.mp3"
+                        },
+                        {
+                          "name": "Día 6 Día Libre.txt",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_006/D%C3%ADa%206%20D%C3%ADa%20Libre.txt"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Dia_007",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "007_LagoHoaKiem.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_007/007_LagoHoaKiem.png"
+                        },
+                        {
+                          "name": "007_Vietnam.mp3",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_007/007_Vietnam.mp3"
+                        },
+                        {
+                          "name": "Día 7 Hanoi.txt",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_007/D%C3%ADa%207%20Hanoi.txt"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Dia_008",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "008_HanoiLibre2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_008/008_HanoiLibre2.png"
+                        },
+                        {
+                          "name": "008_Vietnam.mp3",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_008/008_Vietnam.mp3"
+                        },
+                        {
+                          "name": "Día 8 Día Libre.txt",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_008/D%C3%ADa%208%20D%C3%ADa%20Libre.txt"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Dia_009",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "009_TamCoc1.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_009/009_TamCoc1.png"
+                        },
+                        {
+                          "name": "009_Vietnam.mp3",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_009/009_Vietnam.mp3"
+                        },
+                        {
+                          "name": "Día 9 Ninh Binh.txt",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_009/D%C3%ADa%209%20Ninh%20Binh.txt"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Dia_010",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "010_BahiaHaLong2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_010/010_BahiaHaLong2.png"
+                        },
+                        {
+                          "name": "010_Vietnam.mp3",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_010/010_Vietnam.mp3"
+                        },
+                        {
+                          "name": "Día 10 Bahia de Halong.txt",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_010/D%C3%ADa%2010%20Bahia%20de%20Halong.txt"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Dia_011",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "011_Vietnam.mp3",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_011/011_Vietnam.mp3"
+                        },
+                        {
+                          "name": "360_BCN_1 (1).png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_011/360_BCN_1%20(1).png"
+                        },
+                        {
+                          "name": "Día 11 Regreso.txt",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Vietnam/Vietnam/Dia_011/D%C3%ADa%2011%20Regreso.txt"
+                        }
+                      ]
+                    }
+                  ],
+                  "files": []
+                }
+              ],
+              "files": []
             }
           ],
           "files": [],
