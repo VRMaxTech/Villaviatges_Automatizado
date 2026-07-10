@@ -1,3 +1,24 @@
 {
-  "entries": []
+  "entries": [
+    {
+      "path": "África/Madagascar",
+      "pinPos": {
+        "x": 0.2759999930858612,
+        "y": -0.1809999942779541,
+        "z": -0.14000000059604645
+      },
+      "files": [],
+      "remainingAutoRefreshes": 2
+    },
+    {
+      "path": "América Sur/Brasil",
+      "pinPos": {
+        "x": 0.07599999755620956,
+        "y": 0.08699999749660492,
+        "z": 0.12800000607967377
+      },
+      "files": [],
+      "remainingAutoRefreshes": 2
+    }
+  ]
 }
