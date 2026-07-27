@@ -17215,6 +17215,10 @@
                   ],
                   "files": [
                     {
+                      "name": "001_Bangkok.jpg",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/001_Llegada%20a%20Bangkok/001_Bangkok.jpg"
+                    },
+                    {
                       "name": "002_Bangkok0.png",
                       "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/001_Llegada%20a%20Bangkok/002_Bangkok0.png"
                     }
@@ -17277,6 +17281,10 @@
                     }
                   ],
                   "files": [
+                    {
+                      "name": "002_Bangkok.jpg",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/002_Bangkok%20libre/002_Bangkok.jpg"
+                    },
                     {
                       "name": "002_Bangkok1.png",
                       "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/002_Bangkok%20libre/002_Bangkok1.png"
@@ -17535,7 +17543,12 @@
                       }
                     }
                   ],
-                  "files": [],
+                  "files": [
+                    {
+                      "name": "003_Bangkok.jpg",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/003_Bangkok/003_Bangkok.jpg"
+                    }
+                  ],
                   "pinPos": {
                     "x": 0,
                     "y": 0,
