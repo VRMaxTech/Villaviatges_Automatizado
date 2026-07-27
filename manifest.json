@@ -17657,7 +17657,12 @@
                       }
                     }
                   ],
-                  "files": [],
+                  "files": [
+                    {
+                      "name": "004_MercadoDelTrenMaeklong.png",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/004_Bangkok/004_MercadoDelTrenMaeklong.png"
+                    }
+                  ],
                   "pinPos": {
                     "x": 0,
                     "y": 0,
@@ -17945,7 +17950,12 @@
                       }
                     }
                   ],
-                  "files": [],
+                  "files": [
+                    {
+                      "name": "005_WatPhraSing2.png",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/005_Chiang%20Mai/005_WatPhraSing2.png"
+                    }
+                  ],
                   "pinPos": {
                     "x": 0,
                     "y": 0,
@@ -18199,7 +18209,12 @@
                       }
                     }
                   ],
-                  "files": [],
+                  "files": [
+                    {
+                      "name": "baño_01.png",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/006_Chai%20Lai%20Orchid/ba%C3%B1o_01.png"
+                    }
+                  ],
                   "pinPos": {
                     "x": 0,
                     "y": 0,
@@ -18208,31 +18223,46 @@
                 },
                 {
                   "name": "007_Chai Lai Orchid a Chiang Mai",
-                  "children": [],
-                  "files": [
+                  "children": [
                     {
-                      "name": "Bamboo Rafting in Mae Wang_Thailand adventures.mp4",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/007_Chai%20Lai%20Orchid%20a%20Chiang%20Mai/Bamboo%20Rafting%20in%20Mae%20Wang_Thailand%20adventures.mp4"
-                    },
+                      "name": "LLegada a Chiang Mai",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "Bamboo Rafting in Mae Wang_Thailand adventures.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/007_Chai%20Lai%20Orchid%20a%20Chiang%20Mai/LLegada%20a%20Chiang%20Mai/Bamboo%20Rafting%20in%20Mae%20Wang_Thailand%20adventures.mp4"
+                        },
+                        {
+                          "name": "baño_01.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/007_Chai%20Lai%20Orchid%20a%20Chiang%20Mai/LLegada%20a%20Chiang%20Mai/ba%C3%B1o_01.png"
+                        },
+                        {
+                          "name": "maewangbambooRafting_01.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/007_Chai%20Lai%20Orchid%20a%20Chiang%20Mai/LLegada%20a%20Chiang%20Mai/maewangbambooRafting_01.png"
+                        },
+                        {
+                          "name": "maewangbambooRafting_02.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/007_Chai%20Lai%20Orchid%20a%20Chiang%20Mai/LLegada%20a%20Chiang%20Mai/maewangbambooRafting_02.jpg"
+                        },
+                        {
+                          "name": "maewangbambooRafting_03.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/007_Chai%20Lai%20Orchid%20a%20Chiang%20Mai/LLegada%20a%20Chiang%20Mai/maewangbambooRafting_03.jpg"
+                        },
+                        {
+                          "name": "maewangbambooRafting_04.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/007_Chai%20Lai%20Orchid%20a%20Chiang%20Mai/LLegada%20a%20Chiang%20Mai/maewangbambooRafting_04.jpg"
+                        },
+                        {
+                          "name": "maewangbambooRafting.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/007_Chai%20Lai%20Orchid%20a%20Chiang%20Mai/LLegada%20a%20Chiang%20Mai/maewangbambooRafting.jpg"
+                        }
+                      ]
+                    }
+                  ],
+                  "files": [
                     {
                       "name": "maewangbambooRafting_01.png",
                       "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/007_Chai%20Lai%20Orchid%20a%20Chiang%20Mai/maewangbambooRafting_01.png"
-                    },
-                    {
-                      "name": "maewangbambooRafting_02.jpg",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/007_Chai%20Lai%20Orchid%20a%20Chiang%20Mai/maewangbambooRafting_02.jpg"
-                    },
-                    {
-                      "name": "maewangbambooRafting_03.jpg",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/007_Chai%20Lai%20Orchid%20a%20Chiang%20Mai/maewangbambooRafting_03.jpg"
-                    },
-                    {
-                      "name": "maewangbambooRafting_04.jpg",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/007_Chai%20Lai%20Orchid%20a%20Chiang%20Mai/maewangbambooRafting_04.jpg"
-                    },
-                    {
-                      "name": "maewangbambooRafting.jpg",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/007_Chai%20Lai%20Orchid%20a%20Chiang%20Mai/maewangbambooRafting.jpg"
                     }
                   ],
                   "pinPos": {
@@ -18253,47 +18283,54 @@
                 },
                 {
                   "name": "009_Phuket",
-                  "children": [],
+                  "children": [
+                    {
+                      "name": "Phuket",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "Phuket_01.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/009_Phuket/Phuket/Phuket_01.jpg"
+                        },
+                        {
+                          "name": "Phuket_01.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/009_Phuket/Phuket/Phuket_01.mp4"
+                        },
+                        {
+                          "name": "Phuket_01.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/009_Phuket/Phuket/Phuket_01.png"
+                        },
+                        {
+                          "name": "Phuket_02.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/009_Phuket/Phuket/Phuket_02.jpg"
+                        },
+                        {
+                          "name": "Phuket_02.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/009_Phuket/Phuket/Phuket_02.png"
+                        },
+                        {
+                          "name": "Phuket_03.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/009_Phuket/Phuket/Phuket_03.jpg"
+                        },
+                        {
+                          "name": "Phuket_03.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/009_Phuket/Phuket/Phuket_03.png"
+                        },
+                        {
+                          "name": "Phuket_04.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/009_Phuket/Phuket/Phuket_04.jpg"
+                        },
+                        {
+                          "name": "Phuket_04.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/009_Phuket/Phuket/Phuket_04.png"
+                        }
+                      ]
+                    }
+                  ],
                   "files": [
-                    {
-                      "name": "Phuket_01.jpg",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/009_Phuket/Phuket_01.jpg"
-                    },
-                    {
-                      "name": "Phuket_01.mp4",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/009_Phuket/Phuket_01.mp4"
-                    },
-                    {
-                      "name": "Phuket_01.png",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/009_Phuket/Phuket_01.png"
-                    },
-                    {
-                      "name": "Phuket_02.jpg",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/009_Phuket/Phuket_02.jpg"
-                    },
-                    {
-                      "name": "Phuket_02.mp4",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/009_Phuket/Phuket_02.mp4"
-                    },
                     {
                       "name": "Phuket_02.png",
                       "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/009_Phuket/Phuket_02.png"
-                    },
-                    {
-                      "name": "Phuket_03.jpg",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/009_Phuket/Phuket_03.jpg"
-                    },
-                    {
-                      "name": "Phuket_03.png",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/009_Phuket/Phuket_03.png"
-                    },
-                    {
-                      "name": "Phuket_04.jpg",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/009_Phuket/Phuket_04.jpg"
-                    },
-                    {
-                      "name": "Phuket_04.png",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/009_Phuket/Phuket_04.png"
                     }
                   ],
                   "pinPos": {
@@ -18304,44 +18341,51 @@
                 },
                 {
                   "name": "010_Krabi",
-                  "children": [],
+                  "children": [
+                    {
+                      "name": "Krabi",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "krabi_01.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/010_Krabi/Krabi/krabi_01.jpg"
+                        },
+                        {
+                          "name": "Krabi_01.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/010_Krabi/Krabi/Krabi_01.mp4"
+                        },
+                        {
+                          "name": "krabi_01.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/010_Krabi/Krabi/krabi_01.png"
+                        },
+                        {
+                          "name": "krabi_02.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/010_Krabi/Krabi/krabi_02.jpg"
+                        },
+                        {
+                          "name": "krabi_02.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/010_Krabi/Krabi/krabi_02.png"
+                        },
+                        {
+                          "name": "Krabi_03.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/010_Krabi/Krabi/Krabi_03.jpg"
+                        },
+                        {
+                          "name": "krabi_03.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/010_Krabi/Krabi/krabi_03.png"
+                        },
+                        {
+                          "name": "Krabi_04.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/010_Krabi/Krabi/Krabi_04.jpg"
+                        },
+                        {
+                          "name": "krabi_05.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/010_Krabi/Krabi/krabi_05.png"
+                        }
+                      ]
+                    }
+                  ],
                   "files": [
-                    {
-                      "name": "krabi_01.jpg",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/010_Krabi/krabi_01.jpg"
-                    },
-                    {
-                      "name": "Krabi_01.mp4",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/010_Krabi/Krabi_01.mp4"
-                    },
-                    {
-                      "name": "krabi_01.png",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/010_Krabi/krabi_01.png"
-                    },
-                    {
-                      "name": "krabi_02.jpg",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/010_Krabi/krabi_02.jpg"
-                    },
-                    {
-                      "name": "krabi_02.png",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/010_Krabi/krabi_02.png"
-                    },
-                    {
-                      "name": "Krabi_03.jpg",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/010_Krabi/Krabi_03.jpg"
-                    },
-                    {
-                      "name": "krabi_03.png",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/010_Krabi/krabi_03.png"
-                    },
-                    {
-                      "name": "Krabi_04.jpg",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/010_Krabi/Krabi_04.jpg"
-                    },
-                    {
-                      "name": "krabi_04.png",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/010_Krabi/krabi_04.png"
-                    },
                     {
                       "name": "krabi_05.png",
                       "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/010_Krabi/krabi_05.png"
@@ -18401,65 +18445,61 @@
                   }
                 },
                 {
-                  "name": "012_Playa de Koh Samui",
-                  "children": [],
-                  "files": [
+                  "name": "012_LLegada a Barcelona",
+                  "children": [
                     {
-                      "name": "Koh_Samui_01.jpg",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/012_Playa%20de%20Koh%20Samui/Koh_Samui_01.jpg"
-                    },
-                    {
-                      "name": "Koh_Samui_01.mp4",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/012_Playa%20de%20Koh%20Samui/Koh_Samui_01.mp4"
-                    },
-                    {
-                      "name": "Koh_Samui_01.png",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/012_Playa%20de%20Koh%20Samui/Koh_Samui_01.png"
-                    },
-                    {
-                      "name": "Koh_Samui_02.jpg",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/012_Playa%20de%20Koh%20Samui/Koh_Samui_02.jpg"
-                    },
-                    {
-                      "name": "Koh_Samui_02.png",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/012_Playa%20de%20Koh%20Samui/Koh_Samui_02.png"
-                    },
-                    {
-                      "name": "Koh_Samui_03.jpg",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/012_Playa%20de%20Koh%20Samui/Koh_Samui_03.jpg"
-                    },
-                    {
-                      "name": "Koh_Samui_03.png",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/012_Playa%20de%20Koh%20Samui/Koh_Samui_03.png"
-                    },
-                    {
-                      "name": "Koh_Samui_04.jpg",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/012_Playa%20de%20Koh%20Samui/Koh_Samui_04.jpg"
-                    },
-                    {
-                      "name": "Koh_Samui_04.png",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/012_Playa%20de%20Koh%20Samui/Koh_Samui_04.png"
-                    },
-                    {
-                      "name": "Koh_Samui_05.jpg",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/012_Playa%20de%20Koh%20Samui/Koh_Samui_05.jpg"
+                      "name": "001_Playa de Koh Samui",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "Koh_Samui_01.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/012_LLegada%20a%20Barcelona/001_Playa%20de%20Koh%20Samui/Koh_Samui_01.jpg"
+                        },
+                        {
+                          "name": "Koh_Samui_01.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/012_LLegada%20a%20Barcelona/001_Playa%20de%20Koh%20Samui/Koh_Samui_01.mp4"
+                        },
+                        {
+                          "name": "Koh_Samui_01.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/012_LLegada%20a%20Barcelona/001_Playa%20de%20Koh%20Samui/Koh_Samui_01.png"
+                        },
+                        {
+                          "name": "Koh_Samui_02.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/012_LLegada%20a%20Barcelona/001_Playa%20de%20Koh%20Samui/Koh_Samui_02.jpg"
+                        },
+                        {
+                          "name": "Koh_Samui_02.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/012_LLegada%20a%20Barcelona/001_Playa%20de%20Koh%20Samui/Koh_Samui_02.png"
+                        },
+                        {
+                          "name": "Koh_Samui_03.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/012_LLegada%20a%20Barcelona/001_Playa%20de%20Koh%20Samui/Koh_Samui_03.jpg"
+                        },
+                        {
+                          "name": "Koh_Samui_03.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/012_LLegada%20a%20Barcelona/001_Playa%20de%20Koh%20Samui/Koh_Samui_03.png"
+                        },
+                        {
+                          "name": "Koh_Samui_04.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/012_LLegada%20a%20Barcelona/001_Playa%20de%20Koh%20Samui/Koh_Samui_04.jpg"
+                        },
+                        {
+                          "name": "Koh_Samui_04.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/012_LLegada%20a%20Barcelona/001_Playa%20de%20Koh%20Samui/Koh_Samui_04.png"
+                        },
+                        {
+                          "name": "Koh_Samui_05.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/012_LLegada%20a%20Barcelona/001_Playa%20de%20Koh%20Samui/Koh_Samui_05.jpg"
+                        }
+                      ]
                     }
                   ],
-                  "pinPos": {
-                    "x": 0,
-                    "y": 0,
-                    "z": 0
-                  }
-                },
-                {
-                  "name": "013_Regreso a Barcelona",
-                  "children": [],
-                  "files": [],
-                  "pinPos": {
-                    "x": 0,
-                    "y": 0,
-                    "z": 0
-                  }
+                  "files": [
+                    {
+                      "name": "360_BCN_1.png",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/012_LLegada%20a%20Barcelona/360_BCN_1.png"
+                    }
+                  ]
                 }
               ],
               "files": [],

@@ -1,3 +1,35 @@
 {
-  "entries": []
+  "entries": [
+    {
+      "path": "Asia/Tailandia/Tailandia auténtica/012_Playa de Koh Samui",
+      "pinPos": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "files": [
+        "koh_samui_01.jpg",
+        "koh_samui_01.mp4",
+        "koh_samui_01.png",
+        "koh_samui_02.jpg",
+        "koh_samui_02.png",
+        "koh_samui_03.jpg",
+        "koh_samui_03.png",
+        "koh_samui_04.jpg",
+        "koh_samui_04.png",
+        "koh_samui_05.jpg"
+      ],
+      "remainingAutoRefreshes": 2
+    },
+    {
+      "path": "Asia/Tailandia/Tailandia auténtica/013_Regreso a Barcelona",
+      "pinPos": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "files": [],
+      "remainingAutoRefreshes": 2
+    }
+  ]
 }
