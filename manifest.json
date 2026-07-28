@@ -18204,6 +18204,10 @@
                       "children": [],
                       "files": [
                         {
+                          "name": "006_tribu pga k'nyau_01.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/006_Chai%20Lai%20Orchid/005_Tribu%20Pga%20k%E2%80%99nyau/006_tribu%20pga%20k'nyau_01.png"
+                        },
+                        {
                           "name": "Tribu_01.jpg",
                           "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/006_Chai%20Lai%20Orchid/005_Tribu%20Pga%20k%E2%80%99nyau/Tribu_01.jpg"
                         },
@@ -18281,8 +18285,8 @@
                       "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/006_Chai%20Lai%20Orchid/006_Tailandia.mp3"
                     },
                     {
-                      "name": "baño_01.png",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/006_Chai%20Lai%20Orchid/ba%C3%B1o_01.png"
+                      "name": "baño_02.png",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/006_Chai%20Lai%20Orchid/ba%C3%B1o_02.png"
                     }
                   ],
                   "pinPos": {
@@ -18294,6 +18298,26 @@
                 {
                   "name": "007_Chai Lai Orchid a Chiang Mai",
                   "children": [
+                    {
+                      "name": "CocheLLegada",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "kk.txt",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/007_Chai%20Lai%20Orchid%20a%20Chiang%20Mai/CocheLLegada/kk.txt"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "CocheSalida",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "kk.txt",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Tailandia/Tailandia%20aut%C3%A9ntica/007_Chai%20Lai%20Orchid%20a%20Chiang%20Mai/CocheSalida/kk.txt"
+                        }
+                      ]
+                    },
                     {
                       "name": "LLegada a Chiang Mai",
                       "children": [],
