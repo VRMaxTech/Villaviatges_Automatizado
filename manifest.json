@@ -4525,6 +4525,10 @@
                       "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Norte/Estados%20Unidos/Costa%20Oeste/001_Llegada%20a%20San%20Francisco/001_CostaOeste.mp3"
                     },
                     {
+                      "name": "001_EEUU.mp3",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Norte/Estados%20Unidos/Costa%20Oeste/001_Llegada%20a%20San%20Francisco/001_EEUU.mp3"
+                    },
+                    {
                       "name": "1_Barcelona_SanFrancisco.jpg",
                       "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Norte/Estados%20Unidos/Costa%20Oeste/001_Llegada%20a%20San%20Francisco/1_Barcelona_SanFrancisco.jpg"
                     },
@@ -5115,8 +5119,8 @@
                   ],
                   "files": [
                     {
-                      "name": "004_CostaOeste.mp3",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Norte/Estados%20Unidos/Costa%20Oeste/004_Llegada%20a%20Yosemite/004_CostaOeste.mp3"
+                      "name": "004_EEUU.mp3",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Norte/Estados%20Unidos/Costa%20Oeste/004_Llegada%20a%20Yosemite/004_EEUU.mp3"
                     },
                     {
                       "name": "4_SanFrancisco_Yosemite.jpg",
@@ -5720,8 +5724,8 @@
                   ],
                   "files": [
                     {
-                      "name": "008_CostaOeste.mp3",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Norte/Estados%20Unidos/Costa%20Oeste/008_Death%20valley/008_CostaOeste.mp3"
+                      "name": "008_EEUU.mp3",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Norte/Estados%20Unidos/Costa%20Oeste/008_Death%20valley/008_EEUU.mp3"
                     },
                     {
                       "name": "8_Death Valley_LasVegas.jpg",
@@ -6791,6 +6795,10 @@
                     }
                   ],
                   "files": [
+                    {
+                      "name": "014_EEUU.mp3",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Norte/Estados%20Unidos/Costa%20Oeste/014_Regreso%20a%20Barcelona/014_EEUU.mp3"
+                    },
                     {
                       "name": "14_LosAngeles_Barcelona.jpg",
                       "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Norte/Estados%20Unidos/Costa%20Oeste/014_Regreso%20a%20Barcelona/14_LosAngeles_Barcelona.jpg"
@@ -14093,6 +14101,10 @@
                         {
                           "name": "004_SantuarioHeian.mp3",
                           "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Jap%C3%B3n/Jap%C3%B3n%20Feudal/004_Kioto/003_Santuario%20Heian/004_SantuarioHeian.mp3"
+                        },
+                        {
+                          "name": "004_SantuarioHeian.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Jap%C3%B3n/Jap%C3%B3n%20Feudal/004_Kioto/003_Santuario%20Heian/004_SantuarioHeian.mp4"
                         }
                       ],
                       "pinPos": {
@@ -14154,16 +14166,16 @@
                           "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Jap%C3%B3n/Jap%C3%B3n%20Feudal/005_Hiroshima/001_Santuario%20Itsukushima/005_Itsukushima.mp4"
                         },
                         {
+                          "name": "005_SantuarioItsukushima_01.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Jap%C3%B3n/Jap%C3%B3n%20Feudal/005_Hiroshima/001_Santuario%20Itsukushima/005_SantuarioItsukushima_01.png"
+                        },
+                        {
+                          "name": "005_SantuarioItsukushima_02.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Jap%C3%B3n/Jap%C3%B3n%20Feudal/005_Hiroshima/001_Santuario%20Itsukushima/005_SantuarioItsukushima_02.png"
+                        },
+                        {
                           "name": "005_SantuarioItsukusima_1.png",
                           "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Jap%C3%B3n/Jap%C3%B3n%20Feudal/005_Hiroshima/001_Santuario%20Itsukushima/005_SantuarioItsukusima_1.png"
-                        },
-                        {
-                          "name": "005_SantuarioItsukusima_2.png",
-                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Jap%C3%B3n/Jap%C3%B3n%20Feudal/005_Hiroshima/001_Santuario%20Itsukushima/005_SantuarioItsukusima_2.png"
-                        },
-                        {
-                          "name": "005_SantuarioItsukusimaA_3.png",
-                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Jap%C3%B3n/Jap%C3%B3n%20Feudal/005_Hiroshima/001_Santuario%20Itsukushima/005_SantuarioItsukusimaA_3.png"
                         }
                       ],
                       "pinPos": {
@@ -14762,6 +14774,10 @@
                       "name": "002_Ryokan",
                       "children": [],
                       "files": [
+                        {
+                          "name": "002_Ryokan_01.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Jap%C3%B3n/Jap%C3%B3n%20Feudal/007_Shirakawago/002_Ryokan/002_Ryokan_01.png"
+                        },
                         {
                           "name": "D2_EjemploHotelRyokan_4k.png",
                           "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Jap%C3%B3n/Jap%C3%B3n%20Feudal/007_Shirakawago/002_Ryokan/D2_EjemploHotelRyokan_4k.png"
