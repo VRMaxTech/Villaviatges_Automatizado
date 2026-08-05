@@ -9952,6 +9952,10 @@
                       "children": [],
                       "files": [
                         {
+                          "name": "D11_GalciarBalmaceda.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Chile/Contrastes%20Chilenos/011_Puerto%20Natales/001_Glaciar%20Serrano/D11_GalciarBalmaceda.mp4"
+                        },
+                        {
                           "name": "D11_GlaciarBalmacedaSerrano.jpg",
                           "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Chile/Contrastes%20Chilenos/011_Puerto%20Natales/001_Glaciar%20Serrano/D11_GlaciarBalmacedaSerrano.jpg"
                         },
@@ -9984,6 +9988,52 @@
                           "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Chile/Contrastes%20Chilenos/011_Puerto%20Natales/001_Glaciar%20Serrano/D11_GlaciarSerrano3.png"
                         }
                       ]
+                    },
+                    {
+                      "name": "002_Estancia Patagónica",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "D11_Estancia1.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Chile/Contrastes%20Chilenos/011_Puerto%20Natales/002_Estancia%20Patag%C3%B3nica/D11_Estancia1.jpg"
+                        },
+                        {
+                          "name": "D11_Estancia2.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Chile/Contrastes%20Chilenos/011_Puerto%20Natales/002_Estancia%20Patag%C3%B3nica/D11_Estancia2.jpg"
+                        },
+                        {
+                          "name": "D11_Estancia3.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Chile/Contrastes%20Chilenos/011_Puerto%20Natales/002_Estancia%20Patag%C3%B3nica/D11_Estancia3.jpg"
+                        },
+                        {
+                          "name": "D11_Estancia4.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Chile/Contrastes%20Chilenos/011_Puerto%20Natales/002_Estancia%20Patag%C3%B3nica/D11_Estancia4.jpg"
+                        },
+                        {
+                          "name": "D11_Estancia5.jpeg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Chile/Contrastes%20Chilenos/011_Puerto%20Natales/002_Estancia%20Patag%C3%B3nica/D11_Estancia5.jpeg"
+                        },
+                        {
+                          "name": "D11_EstanciaPatagonica.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Chile/Contrastes%20Chilenos/011_Puerto%20Natales/002_Estancia%20Patag%C3%B3nica/D11_EstanciaPatagonica.png"
+                        },
+                        {
+                          "name": "D11_EstanciaPatagonica1.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Chile/Contrastes%20Chilenos/011_Puerto%20Natales/002_Estancia%20Patag%C3%B3nica/D11_EstanciaPatagonica1.png"
+                        },
+                        {
+                          "name": "D11_EstanciaPatagonica3.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Chile/Contrastes%20Chilenos/011_Puerto%20Natales/002_Estancia%20Patag%C3%B3nica/D11_EstanciaPatagonica3.png"
+                        },
+                        {
+                          "name": "D11_EstanciaPatagonica4.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Chile/Contrastes%20Chilenos/011_Puerto%20Natales/002_Estancia%20Patag%C3%B3nica/D11_EstanciaPatagonica4.png"
+                        },
+                        {
+                          "name": "D11_Estancias_1.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Chile/Contrastes%20Chilenos/011_Puerto%20Natales/002_Estancia%20Patag%C3%B3nica/D11_Estancias_1.mp4"
+                        }
+                      ]
                     }
                   ],
                   "files": [
@@ -9992,6 +10042,11 @@
                       "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Chile/Contrastes%20Chilenos/011_Puerto%20Natales/D11_PuertoNatales.png"
                     }
                   ]
+                },
+                {
+                  "name": "012_Vuelo a Santiago",
+                  "children": [],
+                  "files": []
                 }
               ],
               "files": []
