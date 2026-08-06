@@ -17858,12 +17858,86 @@
                     {
                       "name": "005_Central Market",
                       "children": [],
-                      "files": []
+                      "files": [
+                        {
+                          "name": "D3_CentralMarket.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/005_Central%20Market/D3_CentralMarket.mp4"
+                        },
+                        {
+                          "name": "D3_CentralMarket.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/005_Central%20Market/D3_CentralMarket.png"
+                        },
+                        {
+                          "name": "D3_CentralMarket1.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/005_Central%20Market/D3_CentralMarket1.jpg"
+                        },
+                        {
+                          "name": "D3_CentralMarket1.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/005_Central%20Market/D3_CentralMarket1.png"
+                        },
+                        {
+                          "name": "D3_CentralMarket2.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/005_Central%20Market/D3_CentralMarket2.jpg"
+                        },
+                        {
+                          "name": "D3_CentralMarket2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/005_Central%20Market/D3_CentralMarket2.png"
+                        },
+                        {
+                          "name": "D3_CentralMarket3.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/005_Central%20Market/D3_CentralMarket3.jpg"
+                        },
+                        {
+                          "name": "D3_CentralMarket4.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/005_Central%20Market/D3_CentralMarket4.jpg"
+                        },
+                        {
+                          "name": "D3_CentralMarket5.jpeg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/005_Central%20Market/D3_CentralMarket5.jpeg"
+                        }
+                      ]
                     },
                     {
                       "name": "006_China Town",
                       "children": [],
-                      "files": []
+                      "files": [
+                        {
+                          "name": "D3_Chinatown.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/006_China%20Town/D3_Chinatown.mp4"
+                        },
+                        {
+                          "name": "D3_Chinatown1.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/006_China%20Town/D3_Chinatown1.jpg"
+                        },
+                        {
+                          "name": "D3_Chinatown1.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/006_China%20Town/D3_Chinatown1.png"
+                        },
+                        {
+                          "name": "D3_Chinatown2.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/006_China%20Town/D3_Chinatown2.jpg"
+                        },
+                        {
+                          "name": "D3_Chinatown2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/006_China%20Town/D3_Chinatown2.png"
+                        },
+                        {
+                          "name": "D3_Chinatown3.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/006_China%20Town/D3_Chinatown3.jpg"
+                        },
+                        {
+                          "name": "D3_Chinatown3.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/006_China%20Town/D3_Chinatown3.png"
+                        },
+                        {
+                          "name": "D3_Chinatown4.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/006_China%20Town/D3_Chinatown4.jpg"
+                        },
+                        {
+                          "name": "D3_Chinatown5.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/006_China%20Town/D3_Chinatown5.jpg"
+                        }
+                      ]
                     }
                   ],
                   "files": [
@@ -17872,6 +17946,96 @@
                       "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/D3_TorresPetronas3.png"
                     }
                   ]
+                },
+                {
+                  "name": "004_Cameron Highlands",
+                  "children": [
+                    {
+                      "name": "001_Batu Caves",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "D4_BatuCaves.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/004_Cameron%20Highlands/001_Batu%20Caves/D4_BatuCaves.mp4"
+                        },
+                        {
+                          "name": "D4_BatuCaves.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/004_Cameron%20Highlands/001_Batu%20Caves/D4_BatuCaves.png"
+                        },
+                        {
+                          "name": "D4_BatuCaves1.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/004_Cameron%20Highlands/001_Batu%20Caves/D4_BatuCaves1.jpg"
+                        },
+                        {
+                          "name": "D4_BatuCaves1.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/004_Cameron%20Highlands/001_Batu%20Caves/D4_BatuCaves1.png"
+                        },
+                        {
+                          "name": "D4_BatuCaves2.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/004_Cameron%20Highlands/001_Batu%20Caves/D4_BatuCaves2.jpg"
+                        },
+                        {
+                          "name": "D4_BatuCaves2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/004_Cameron%20Highlands/001_Batu%20Caves/D4_BatuCaves2.png"
+                        },
+                        {
+                          "name": "D4_BatuCaves3.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/004_Cameron%20Highlands/001_Batu%20Caves/D4_BatuCaves3.jpg"
+                        },
+                        {
+                          "name": "D4_BatuCaves3.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/004_Cameron%20Highlands/001_Batu%20Caves/D4_BatuCaves3.png"
+                        },
+                        {
+                          "name": "D4_BatuCaves4.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/004_Cameron%20Highlands/001_Batu%20Caves/D4_BatuCaves4.jpg"
+                        },
+                        {
+                          "name": "D4_BatuCaves5.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/004_Cameron%20Highlands/001_Batu%20Caves/D4_BatuCaves5.jpg"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "002_Poblado Orang Asli",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "D4_CamernHighlands.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/004_Cameron%20Highlands/002_Poblado%20Orang%20Asli/D4_CamernHighlands.jpg"
+                        },
+                        {
+                          "name": "D4_CamernHighlands1.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/004_Cameron%20Highlands/002_Poblado%20Orang%20Asli/D4_CamernHighlands1.jpg"
+                        },
+                        {
+                          "name": "D4_CamernHighlands2.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/004_Cameron%20Highlands/002_Poblado%20Orang%20Asli/D4_CamernHighlands2.jpg"
+                        },
+                        {
+                          "name": "D4_CamernHighlands4.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/004_Cameron%20Highlands/002_Poblado%20Orang%20Asli/D4_CamernHighlands4.jpg"
+                        },
+                        {
+                          "name": "D4_CamernHighlands5.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/004_Cameron%20Highlands/002_Poblado%20Orang%20Asli/D4_CamernHighlands5.jpg"
+                        },
+                        {
+                          "name": "D4_CameronHighlands.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/004_Cameron%20Highlands/002_Poblado%20Orang%20Asli/D4_CameronHighlands.png"
+                        },
+                        {
+                          "name": "D4_CameronHighlands2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/004_Cameron%20Highlands/002_Poblado%20Orang%20Asli/D4_CameronHighlands2.png"
+                        },
+                        {
+                          "name": "D4_CameronHighlands3.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/004_Cameron%20Highlands/002_Poblado%20Orang%20Asli/D4_CameronHighlands3.png"
+                        }
+                      ]
+                    }
+                  ],
+                  "files": []
                 }
               ],
               "files": []
@@ -26506,8 +26670,39 @@
               "children": [
                 {
                   "name": "Test_Japó",
-                  "children": [],
-                  "files": []
+                  "children": [
+                    {
+                      "name": "Día_1",
+                      "children": [],
+                      "files": []
+                    },
+                    {
+                      "name": "Día_2",
+                      "children": [],
+                      "files": []
+                    },
+                    {
+                      "name": "Día_3",
+                      "children": [],
+                      "files": []
+                    },
+                    {
+                      "name": "Día_4",
+                      "children": [],
+                      "files": []
+                    },
+                    {
+                      "name": "Día_5",
+                      "children": [],
+                      "files": []
+                    }
+                  ],
+                  "files": [
+                    {
+                      "name": "Trad_Japan_1.mp3",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Test_Jap%C3%B3/Test_Jap%C3%B3/Trad_Japan_1.mp3"
+                    }
+                  ]
                 }
               ],
               "files": []
