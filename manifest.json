@@ -10045,8 +10045,55 @@
                 },
                 {
                   "name": "012_Vuelo a Santiago",
-                  "children": [],
-                  "files": []
+                  "children": [
+                    {
+                      "name": "AvioLlegada",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "kk.txt",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Chile/Contrastes%20Chilenos/012_Vuelo%20a%20Santiago/AvioLlegada/kk.txt"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "AvioSalida",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "kk.txt",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Chile/Contrastes%20Chilenos/012_Vuelo%20a%20Santiago/AvioSalida/kk.txt"
+                        }
+                      ]
+                    }
+                  ],
+                  "files": [
+                    {
+                      "name": "D12_Santiago.png",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Chile/Contrastes%20Chilenos/012_Vuelo%20a%20Santiago/D12_Santiago.png"
+                    }
+                  ]
+                },
+                {
+                  "name": "013_Regreso a Barcelona",
+                  "children": [
+                    {
+                      "name": "AvioLlegada",
+                      "children": [],
+                      "files": []
+                    },
+                    {
+                      "name": "AvioSalida",
+                      "children": [],
+                      "files": []
+                    }
+                  ],
+                  "files": [
+                    {
+                      "name": "360_BCN_1.png",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Chile/Contrastes%20Chilenos/013_Regreso%20a%20Barcelona/360_BCN_1.png"
+                    }
+                  ]
                 }
               ],
               "files": []
@@ -17585,6 +17632,252 @@
             "y": -0.06700000166893005,
             "z": -0.027000000700354576
           }
+        },
+        {
+          "name": "Malasia",
+          "children": [
+            {
+              "name": "Malasia",
+              "children": [
+                {
+                  "name": "001_Vuelo a Kuala Lumpur",
+                  "children": [
+                    {
+                      "name": "AvioLlegada",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "kk.txt",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/001_Vuelo%20a%20Kuala%20Lumpur/AvioLlegada/kk.txt"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "AvioSalida",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "kk.txt",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/001_Vuelo%20a%20Kuala%20Lumpur/AvioSalida/kk.txt"
+                        }
+                      ]
+                    }
+                  ],
+                  "files": [
+                    {
+                      "name": "D1_KualaLumpur.png",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/001_Vuelo%20a%20Kuala%20Lumpur/D1_KualaLumpur.png"
+                    }
+                  ]
+                },
+                {
+                  "name": "002_Llegada a Kuala Lumpur",
+                  "children": [],
+                  "files": [
+                    {
+                      "name": "D2_KualaLumpur.png",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/002_Llegada%20a%20Kuala%20Lumpur/D2_KualaLumpur.png"
+                    }
+                  ]
+                },
+                {
+                  "name": "003_Kuala Lumpur",
+                  "children": [
+                    {
+                      "name": "001_Visita Ciudad",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "D3_Ciudad.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/001_Visita%20Ciudad/D3_Ciudad.mp4"
+                        },
+                        {
+                          "name": "D3_Ciudad1.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/001_Visita%20Ciudad/D3_Ciudad1.jpg"
+                        },
+                        {
+                          "name": "D3_Ciudad2.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/001_Visita%20Ciudad/D3_Ciudad2.jpg"
+                        },
+                        {
+                          "name": "D3_Ciudad3.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/001_Visita%20Ciudad/D3_Ciudad3.jpg"
+                        },
+                        {
+                          "name": "D3_Ciudad4.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/001_Visita%20Ciudad/D3_Ciudad4.jpg"
+                        },
+                        {
+                          "name": "D3_Ciudad5.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/001_Visita%20Ciudad/D3_Ciudad5.jpg"
+                        },
+                        {
+                          "name": "D3_KualaLumpur.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/001_Visita%20Ciudad/D3_KualaLumpur.png"
+                        },
+                        {
+                          "name": "D3_KualaLumpur2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/001_Visita%20Ciudad/D3_KualaLumpur2.png"
+                        },
+                        {
+                          "name": "D3_KualaLumpur3.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/001_Visita%20Ciudad/D3_KualaLumpur3.png"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "002_Torres Petronas",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "D3_TorresPetronas_1.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/002_Torres%20Petronas/D3_TorresPetronas_1.mp4"
+                        },
+                        {
+                          "name": "D3_TorresPetronas.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/002_Torres%20Petronas/D3_TorresPetronas.jpg"
+                        },
+                        {
+                          "name": "D3_TorresPetronas.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/002_Torres%20Petronas/D3_TorresPetronas.png"
+                        },
+                        {
+                          "name": "D3_TorresPetronas1.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/002_Torres%20Petronas/D3_TorresPetronas1.png"
+                        },
+                        {
+                          "name": "D3_TorresPetronas2.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/002_Torres%20Petronas/D3_TorresPetronas2.jpg"
+                        },
+                        {
+                          "name": "D3_TorresPetronas2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/002_Torres%20Petronas/D3_TorresPetronas2.png"
+                        },
+                        {
+                          "name": "D3_TorresPetronas3.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/002_Torres%20Petronas/D3_TorresPetronas3.jpg"
+                        },
+                        {
+                          "name": "D3_TorresPetronas3.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/002_Torres%20Petronas/D3_TorresPetronas3.png"
+                        },
+                        {
+                          "name": "D3_TorresPetronas4.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/002_Torres%20Petronas/D3_TorresPetronas4.jpg"
+                        },
+                        {
+                          "name": "D3_TorresPetronas5.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/002_Torres%20Petronas/D3_TorresPetronas5.jpg"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "003_Masjid Jamek",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "D3_MasjidJamek0.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/003_Masjid%20Jamek/D3_MasjidJamek0.png"
+                        },
+                        {
+                          "name": "D3_masjidJamek1.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/003_Masjid%20Jamek/D3_masjidJamek1.jpg"
+                        },
+                        {
+                          "name": "D3_MasjidJamek1.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/003_Masjid%20Jamek/D3_MasjidJamek1.png"
+                        },
+                        {
+                          "name": "D3_masjidJamek2.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/003_Masjid%20Jamek/D3_masjidJamek2.jpg"
+                        },
+                        {
+                          "name": "D3_MasjidJamek2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/003_Masjid%20Jamek/D3_MasjidJamek2.png"
+                        },
+                        {
+                          "name": "D3_masjidJamek3.jpeg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/003_Masjid%20Jamek/D3_masjidJamek3.jpeg"
+                        },
+                        {
+                          "name": "D3_masjidJamek4.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/003_Masjid%20Jamek/D3_masjidJamek4.jpg"
+                        },
+                        {
+                          "name": "D3_masjidJamek5.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/003_Masjid%20Jamek/D3_masjidJamek5.jpg"
+                        },
+                        {
+                          "name": "D3_MosqueJamek.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/003_Masjid%20Jamek/D3_MosqueJamek.mp4"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "004_Plaza Merdeka",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "D3_DataranMerdeka_1.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/004_Plaza%20Merdeka/D3_DataranMerdeka_1.mp4"
+                        },
+                        {
+                          "name": "D3_PlazaMerdeka.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/004_Plaza%20Merdeka/D3_PlazaMerdeka.png"
+                        },
+                        {
+                          "name": "D3_PlazaMerdeka1.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/004_Plaza%20Merdeka/D3_PlazaMerdeka1.jpg"
+                        },
+                        {
+                          "name": "D3_PlazaMerdeka1.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/004_Plaza%20Merdeka/D3_PlazaMerdeka1.png"
+                        },
+                        {
+                          "name": "D3_PlazaMerdeka2.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/004_Plaza%20Merdeka/D3_PlazaMerdeka2.jpg"
+                        },
+                        {
+                          "name": "D3_PlazaMerdeka2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/004_Plaza%20Merdeka/D3_PlazaMerdeka2.png"
+                        },
+                        {
+                          "name": "D3_PlazaMerdeka3.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/004_Plaza%20Merdeka/D3_PlazaMerdeka3.jpg"
+                        },
+                        {
+                          "name": "D3_PlazaMerdeka4.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/004_Plaza%20Merdeka/D3_PlazaMerdeka4.jpg"
+                        },
+                        {
+                          "name": "D3_PlazaMerdeka5.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/004_Plaza%20Merdeka/D3_PlazaMerdeka5.jpg"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "005_Central Market",
+                      "children": [],
+                      "files": []
+                    },
+                    {
+                      "name": "006_China Town",
+                      "children": [],
+                      "files": []
+                    }
+                  ],
+                  "files": [
+                    {
+                      "name": "D3_TorresPetronas3.png",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Malasia/Malasia/003_Kuala%20Lumpur/D3_TorresPetronas3.png"
+                    }
+                  ]
+                }
+              ],
+              "files": []
+            }
+          ],
+          "files": []
         },
         {
           "name": "Sri Lanka",
