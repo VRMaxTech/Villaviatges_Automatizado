@@ -26904,16 +26904,16 @@
                           "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Test_Jap%C3%B3/Test_Jap%C3%B3/D%C3%ADa_1/1.mp3"
                         },
                         {
+                          "name": "1.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Test_Jap%C3%B3/Test_Jap%C3%B3/D%C3%ADa_1/1.png"
+                        },
+                        {
+                          "name": "2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Test_Jap%C3%B3/Test_Jap%C3%B3/D%C3%ADa_1/2.png"
+                        },
+                        {
                           "name": "Dia1.txt",
                           "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Test_Jap%C3%B3/Test_Jap%C3%B3/D%C3%ADa_1/Dia1.txt"
-                        },
-                        {
-                          "name": "Test15 (1).png",
-                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Test_Jap%C3%B3/Test_Jap%C3%B3/D%C3%ADa_1/Test15%20(1).png"
-                        },
-                        {
-                          "name": "Test8 (1).png",
-                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Test_Jap%C3%B3/Test_Jap%C3%B3/D%C3%ADa_1/Test8%20(1).png"
                         }
                       ]
                     },
@@ -26922,20 +26922,20 @@
                       "children": [],
                       "files": [
                         {
+                          "name": "1.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Test_Jap%C3%B3/Test_Jap%C3%B3/D%C3%ADa_2/1.png"
+                        },
+                        {
                           "name": "2.mp3",
                           "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Test_Jap%C3%B3/Test_Jap%C3%B3/D%C3%ADa_2/2.mp3"
                         },
                         {
+                          "name": "2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Test_Jap%C3%B3/Test_Jap%C3%B3/D%C3%ADa_2/2.png"
+                        },
+                        {
                           "name": "Dia2.txt",
                           "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Test_Jap%C3%B3/Test_Jap%C3%B3/D%C3%ADa_2/Dia2.txt"
-                        },
-                        {
-                          "name": "Test11 (2).png",
-                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Test_Jap%C3%B3/Test_Jap%C3%B3/D%C3%ADa_2/Test11%20(2).png"
-                        },
-                        {
-                          "name": "Test12 (1).png",
-                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Usuari/Asia/Test_Jap%C3%B3/Test_Jap%C3%B3/D%C3%ADa_2/Test12%20(1).png"
                         }
                       ]
                     },
