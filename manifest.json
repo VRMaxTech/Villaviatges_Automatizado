@@ -15249,9 +15249,270 @@
                           "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/001_Raj%20Ghat/D3_RajGhat5.jpg"
                         }
                       ]
+                    },
+                    {
+                      "name": "002_Jama Masjid",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "D3_JamaMasjid_Video_1.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/002_Jama%20Masjid/D3_JamaMasjid_Video_1.mp4"
+                        },
+                        {
+                          "name": "D3_JamaMasjid1.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/002_Jama%20Masjid/D3_JamaMasjid1.jpg"
+                        },
+                        {
+                          "name": "D3_JamaMasjid1.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/002_Jama%20Masjid/D3_JamaMasjid1.png"
+                        },
+                        {
+                          "name": "D3_JamaMasjid2.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/002_Jama%20Masjid/D3_JamaMasjid2.jpg"
+                        },
+                        {
+                          "name": "D3_JamaMasjid2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/002_Jama%20Masjid/D3_JamaMasjid2.png"
+                        },
+                        {
+                          "name": "D3_JamaMasjid3.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/002_Jama%20Masjid/D3_JamaMasjid3.jpg"
+                        },
+                        {
+                          "name": "D3_JamaMasjid3.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/002_Jama%20Masjid/D3_JamaMasjid3.png"
+                        },
+                        {
+                          "name": "D3_JamaMasjid4.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/002_Jama%20Masjid/D3_JamaMasjid4.jpg"
+                        },
+                        {
+                          "name": "D3_JamaMasjid5.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/002_Jama%20Masjid/D3_JamaMasjid5.jpg"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "003_Fuerte Rojo",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "D3_FuerteRojo.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/003_Fuerte%20Rojo/D3_FuerteRojo.jpg"
+                        },
+                        {
+                          "name": "D3_FuerteRojo.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/003_Fuerte%20Rojo/D3_FuerteRojo.png"
+                        },
+                        {
+                          "name": "D3_FuerteRojo2.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/003_Fuerte%20Rojo/D3_FuerteRojo2.jpg"
+                        },
+                        {
+                          "name": "D3_FuerteRojo2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/003_Fuerte%20Rojo/D3_FuerteRojo2.png"
+                        },
+                        {
+                          "name": "D3_FuerteRojo3.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/003_Fuerte%20Rojo/D3_FuerteRojo3.jpg"
+                        },
+                        {
+                          "name": "D3_FuerteRojo3.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/003_Fuerte%20Rojo/D3_FuerteRojo3.png"
+                        },
+                        {
+                          "name": "D3_FuerteRojo4.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/003_Fuerte%20Rojo/D3_FuerteRojo4.jpg"
+                        },
+                        {
+                          "name": "D3_FuerteRojo5.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/003_Fuerte%20Rojo/D3_FuerteRojo5.jpg"
+                        },
+                        {
+                          "name": "D3_RedFort.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/003_Fuerte%20Rojo/D3_RedFort.mp4"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "004_Chadni Chowk",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "D3_ChadniChowk1.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/004_Chadni%20Chowk/D3_ChadniChowk1.jpg"
+                        },
+                        {
+                          "name": "D3_ChadniChowk2.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/004_Chadni%20Chowk/D3_ChadniChowk2.jpg"
+                        },
+                        {
+                          "name": "D3_ChadniChowk3.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/004_Chadni%20Chowk/D3_ChadniChowk3.jpg"
+                        },
+                        {
+                          "name": "D3_ChadniChowk4.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/004_Chadni%20Chowk/D3_ChadniChowk4.jpg"
+                        },
+                        {
+                          "name": "D3_ChadniChowk5.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/004_Chadni%20Chowk/D3_ChadniChowk5.jpg"
+                        },
+                        {
+                          "name": "D3_ChadniChwok1.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/004_Chadni%20Chowk/D3_ChadniChwok1.png"
+                        },
+                        {
+                          "name": "D3_ChadniChwok2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/004_Chadni%20Chowk/D3_ChadniChwok2.png"
+                        },
+                        {
+                          "name": "D3_ChadniChwok3.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/004_Chadni%20Chowk/D3_ChadniChwok3.png"
+                        },
+                        {
+                          "name": "D3_ChadnioChowk.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/004_Chadni%20Chowk/D3_ChadnioChowk.mp4"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "005_Minarete Qutab",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "D3_Qutab.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/005_Minarete%20Qutab/D3_Qutab.png"
+                        },
+                        {
+                          "name": "D3_Qutab1.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/005_Minarete%20Qutab/D3_Qutab1.jpg"
+                        },
+                        {
+                          "name": "D3_Qutab2.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/005_Minarete%20Qutab/D3_Qutab2.jpg"
+                        },
+                        {
+                          "name": "D3_Qutab2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/005_Minarete%20Qutab/D3_Qutab2.png"
+                        },
+                        {
+                          "name": "D3_Qutab3.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/005_Minarete%20Qutab/D3_Qutab3.jpg"
+                        },
+                        {
+                          "name": "D3_Qutab3.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/005_Minarete%20Qutab/D3_Qutab3.png"
+                        },
+                        {
+                          "name": "D3_Qutab4.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/005_Minarete%20Qutab/D3_Qutab4.jpg"
+                        },
+                        {
+                          "name": "D3_Qutab5.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/005_Minarete%20Qutab/D3_Qutab5.jpg"
+                        },
+                        {
+                          "name": "D3_QutabMinar.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/005_Minarete%20Qutab/D3_QutabMinar.mp4"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "006_Templo Gurdwara",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "D3_Gurdwara1.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/006_Templo%20Gurdwara/D3_Gurdwara1.jpg"
+                        },
+                        {
+                          "name": "D3_Gurdwara2.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/006_Templo%20Gurdwara/D3_Gurdwara2.jpg"
+                        },
+                        {
+                          "name": "D3_Gurdwara3.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/006_Templo%20Gurdwara/D3_Gurdwara3.jpg"
+                        },
+                        {
+                          "name": "D3_Gurdwara4.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/006_Templo%20Gurdwara/D3_Gurdwara4.jpg"
+                        },
+                        {
+                          "name": "D3_Gurdwara5.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/006_Templo%20Gurdwara/D3_Gurdwara5.jpg"
+                        },
+                        {
+                          "name": "D3_GurdwaraTemple.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/006_Templo%20Gurdwara/D3_GurdwaraTemple.mp4"
+                        },
+                        {
+                          "name": "D3_TemploGurdwara.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/006_Templo%20Gurdwara/D3_TemploGurdwara.png"
+                        },
+                        {
+                          "name": "D3_TemploGurdwara2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/006_Templo%20Gurdwara/D3_TemploGurdwara2.png"
+                        },
+                        {
+                          "name": "D3_TemploGurdwara3.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/006_Templo%20Gurdwara/D3_TemploGurdwara3.png"
+                        },
+                        {
+                          "name": "D3_TemploGurdwara4.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/006_Templo%20Gurdwara/D3_TemploGurdwara4.png"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "007_Estado del Presidente",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "D3_CasaDelPresidente.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/007_Estado%20del%20Presidente/D3_CasaDelPresidente.png"
+                        },
+                        {
+                          "name": "D3_CasaDelPresidente1.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/007_Estado%20del%20Presidente/D3_CasaDelPresidente1.png"
+                        },
+                        {
+                          "name": "D3_CasaDelPresidente3.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/007_Estado%20del%20Presidente/D3_CasaDelPresidente3.png"
+                        },
+                        {
+                          "name": "D3_CasaPresidente.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/007_Estado%20del%20Presidente/D3_CasaPresidente.mp4"
+                        },
+                        {
+                          "name": "D3_EstadoDelPresidente1.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/007_Estado%20del%20Presidente/D3_EstadoDelPresidente1.jpg"
+                        },
+                        {
+                          "name": "D3_EstadoDelPresidente2.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/007_Estado%20del%20Presidente/D3_EstadoDelPresidente2.jpg"
+                        },
+                        {
+                          "name": "D3_EstadoDelPresidente3.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/007_Estado%20del%20Presidente/D3_EstadoDelPresidente3.jpg"
+                        },
+                        {
+                          "name": "D3_EstadoDelPresidente4.jpeg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/007_Estado%20del%20Presidente/D3_EstadoDelPresidente4.jpeg"
+                        },
+                        {
+                          "name": "D3_EstadoDelPresidente5.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/007_Estado%20del%20Presidente/D3_EstadoDelPresidente5.jpg"
+                        }
+                      ]
                     }
                   ],
-                  "files": []
+                  "files": [
+                    {
+                      "name": "D3_JamaMasjid3.png",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/D3_JamaMasjid3.png"
+                    }
+                  ]
                 },
                 {
                   "name": "004_Jaipur",
