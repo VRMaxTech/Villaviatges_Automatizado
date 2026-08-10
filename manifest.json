@@ -15505,6 +15505,90 @@
                           "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/007_Estado%20del%20Presidente/D3_EstadoDelPresidente5.jpg"
                         }
                       ]
+                    },
+                    {
+                      "name": "008_Parlamento",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "D3_Parlamento.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/008_Parlamento/D3_Parlamento.mp4"
+                        },
+                        {
+                          "name": "D3_Parlamento.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/008_Parlamento/D3_Parlamento.png"
+                        },
+                        {
+                          "name": "D3_Parlamento1.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/008_Parlamento/D3_Parlamento1.jpg"
+                        },
+                        {
+                          "name": "D3_Parlamento1.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/008_Parlamento/D3_Parlamento1.png"
+                        },
+                        {
+                          "name": "D3_Parlamento2.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/008_Parlamento/D3_Parlamento2.jpg"
+                        },
+                        {
+                          "name": "D3_Parlamento2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/008_Parlamento/D3_Parlamento2.png"
+                        },
+                        {
+                          "name": "D3_Parlamento3.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/008_Parlamento/D3_Parlamento3.jpg"
+                        },
+                        {
+                          "name": "D3_Parlamento4.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/008_Parlamento/D3_Parlamento4.jpg"
+                        },
+                        {
+                          "name": "D3_Parlamento5.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/008_Parlamento/D3_Parlamento5.jpg"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "009_Paseo en Rickshaw",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "D3_Rickshaw.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/009_Paseo%20en%20Rickshaw/D3_Rickshaw.mp4"
+                        },
+                        {
+                          "name": "D3_Rickshaw.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/009_Paseo%20en%20Rickshaw/D3_Rickshaw.png"
+                        },
+                        {
+                          "name": "D3_Rickshaw1.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/009_Paseo%20en%20Rickshaw/D3_Rickshaw1.jpg"
+                        },
+                        {
+                          "name": "D3_Rickshaw2.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/009_Paseo%20en%20Rickshaw/D3_Rickshaw2.jpg"
+                        },
+                        {
+                          "name": "D3_Rickshaw2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/009_Paseo%20en%20Rickshaw/D3_Rickshaw2.png"
+                        },
+                        {
+                          "name": "D3_Rickshaw3.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/009_Paseo%20en%20Rickshaw/D3_Rickshaw3.jpg"
+                        },
+                        {
+                          "name": "D3_Rickshaw3.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/009_Paseo%20en%20Rickshaw/D3_Rickshaw3.png"
+                        },
+                        {
+                          "name": "D3_Rickshaw4.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/009_Paseo%20en%20Rickshaw/D3_Rickshaw4.jpg"
+                        },
+                        {
+                          "name": "D3_Rickshaw5.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/009_Paseo%20en%20Rickshaw/D3_Rickshaw5.jpg"
+                        }
+                      ]
                     }
                   ],
                   "files": [
@@ -15516,8 +15600,98 @@
                 },
                 {
                   "name": "004_Jaipur",
-                  "children": [],
-                  "files": []
+                  "children": [
+                    {
+                      "name": "001_Shahpura Palace",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "D4_ShahpuraPalace.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/004_Jaipur/001_Shahpura%20Palace/D4_ShahpuraPalace.mp4"
+                        },
+                        {
+                          "name": "D4_ShahpuraPalace1.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/004_Jaipur/001_Shahpura%20Palace/D4_ShahpuraPalace1.png"
+                        },
+                        {
+                          "name": "D4_Shapura1.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/004_Jaipur/001_Shahpura%20Palace/D4_Shapura1.jpg"
+                        },
+                        {
+                          "name": "D4_Shapura2.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/004_Jaipur/001_Shahpura%20Palace/D4_Shapura2.jpg"
+                        },
+                        {
+                          "name": "D4_Shapura3.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/004_Jaipur/001_Shahpura%20Palace/D4_Shapura3.jpg"
+                        },
+                        {
+                          "name": "D4_Shapura4.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/004_Jaipur/001_Shahpura%20Palace/D4_Shapura4.jpg"
+                        },
+                        {
+                          "name": "D4_Shapura5.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/004_Jaipur/001_Shahpura%20Palace/D4_Shapura5.jpg"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "002_Ciudad de Jaipur",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "D4_Jaipur.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/004_Jaipur/002_Ciudad%20de%20Jaipur/D4_Jaipur.png"
+                        },
+                        {
+                          "name": "D4_Jaipur1.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/004_Jaipur/002_Ciudad%20de%20Jaipur/D4_Jaipur1.jpg"
+                        },
+                        {
+                          "name": "D4_Jaipur1.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/004_Jaipur/002_Ciudad%20de%20Jaipur/D4_Jaipur1.png"
+                        },
+                        {
+                          "name": "D4_Jaipur2.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/004_Jaipur/002_Ciudad%20de%20Jaipur/D4_Jaipur2.jpg"
+                        },
+                        {
+                          "name": "D4_Jaipur2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/004_Jaipur/002_Ciudad%20de%20Jaipur/D4_Jaipur2.png"
+                        },
+                        {
+                          "name": "D4_Jaipur3.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/004_Jaipur/002_Ciudad%20de%20Jaipur/D4_Jaipur3.jpg"
+                        },
+                        {
+                          "name": "D4_Jaipur3.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/004_Jaipur/002_Ciudad%20de%20Jaipur/D4_Jaipur3.png"
+                        },
+                        {
+                          "name": "D4_Jaipur4.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/004_Jaipur/002_Ciudad%20de%20Jaipur/D4_Jaipur4.jpg"
+                        },
+                        {
+                          "name": "D4_Jaipur4.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/004_Jaipur/002_Ciudad%20de%20Jaipur/D4_Jaipur4.png"
+                        },
+                        {
+                          "name": "D4_Jaipur5.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/004_Jaipur/002_Ciudad%20de%20Jaipur/D4_Jaipur5.jpg"
+                        },
+                        {
+                          "name": "D4_Jaipur5.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/004_Jaipur/002_Ciudad%20de%20Jaipur/D4_Jaipur5.png"
+                        }
+                      ]
+                    }
+                  ],
+                  "files": [
+                    {
+                      "name": "D4_Jaipur1.png",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/004_Jaipur/D4_Jaipur1.png"
+                    }
+                  ]
                 }
               ],
               "files": []
