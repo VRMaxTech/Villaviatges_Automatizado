@@ -15190,6 +15190,10 @@
                         {
                           "name": "D2_Dehli5.jpg",
                           "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/002_Llegada%20a%20Delhi/001_Delhi%20Ciudad/D2_Dehli5.jpg"
+                        },
+                        {
+                          "name": "D2_Delhi.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/002_Llegada%20a%20Delhi/001_Delhi%20Ciudad/D2_Delhi.jpg"
                         }
                       ]
                     }
@@ -15207,7 +15211,44 @@
                     {
                       "name": "001_Raj Ghat",
                       "children": [],
-                      "files": []
+                      "files": [
+                        {
+                          "name": "D3_RajGhat.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/001_Raj%20Ghat/D3_RajGhat.jpg"
+                        },
+                        {
+                          "name": "D3_RajGhat.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/001_Raj%20Ghat/D3_RajGhat.mp4"
+                        },
+                        {
+                          "name": "D3_RajGhat1.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/001_Raj%20Ghat/D3_RajGhat1.png"
+                        },
+                        {
+                          "name": "D3_RajGhat2.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/001_Raj%20Ghat/D3_RajGhat2.jpg"
+                        },
+                        {
+                          "name": "D3_RajGhat2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/001_Raj%20Ghat/D3_RajGhat2.png"
+                        },
+                        {
+                          "name": "D3_RajGhat3.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/001_Raj%20Ghat/D3_RajGhat3.jpg"
+                        },
+                        {
+                          "name": "D3_RajGhat3.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/001_Raj%20Ghat/D3_RajGhat3.png"
+                        },
+                        {
+                          "name": "D3_RajGhat4.jpeg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/001_Raj%20Ghat/D3_RajGhat4.jpeg"
+                        },
+                        {
+                          "name": "D3_RajGhat5.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/003_Delhi/001_Raj%20Ghat/D3_RajGhat5.jpg"
+                        }
+                      ]
                     }
                   ],
                   "files": []
