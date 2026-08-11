@@ -16012,7 +16012,12 @@
                       ]
                     }
                   ],
-                  "files": []
+                  "files": [
+                    {
+                      "name": "D5_FuerteAmber2.png",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/005_Jaipur/D5_FuerteAmber2.png"
+                    }
+                  ]
                 },
                 {
                   "name": "006_Fatehpur Sikri-Agra",
@@ -16058,9 +16063,171 @@
                           "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/006_Fatehpur%20Sikri-Agra/001_Pueblo%20Abhaneri/D6_Abhaneri3.png"
                         }
                       ]
+                    },
+                    {
+                      "name": "002_Fatehpur Sikri",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "D6_FatehpurSikri_1.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/006_Fatehpur%20Sikri-Agra/002_Fatehpur%20Sikri/D6_FatehpurSikri_1.mp4"
+                        },
+                        {
+                          "name": "D6_FatehpurSikri.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/006_Fatehpur%20Sikri-Agra/002_Fatehpur%20Sikri/D6_FatehpurSikri.png"
+                        },
+                        {
+                          "name": "D6_FatehpurSikri1.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/006_Fatehpur%20Sikri-Agra/002_Fatehpur%20Sikri/D6_FatehpurSikri1.jpg"
+                        },
+                        {
+                          "name": "D6_FatehpurSikri2.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/006_Fatehpur%20Sikri-Agra/002_Fatehpur%20Sikri/D6_FatehpurSikri2.jpg"
+                        },
+                        {
+                          "name": "D6_FatehpurSikri2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/006_Fatehpur%20Sikri-Agra/002_Fatehpur%20Sikri/D6_FatehpurSikri2.png"
+                        },
+                        {
+                          "name": "D6_FatehpurSikri3.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/006_Fatehpur%20Sikri-Agra/002_Fatehpur%20Sikri/D6_FatehpurSikri3.jpg"
+                        },
+                        {
+                          "name": "D6_FatehpurSikri3.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/006_Fatehpur%20Sikri-Agra/002_Fatehpur%20Sikri/D6_FatehpurSikri3.png"
+                        },
+                        {
+                          "name": "D6_FatehpurSikri4.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/006_Fatehpur%20Sikri-Agra/002_Fatehpur%20Sikri/D6_FatehpurSikri4.jpg"
+                        },
+                        {
+                          "name": "D6_FatehpurSikri4.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/006_Fatehpur%20Sikri-Agra/002_Fatehpur%20Sikri/D6_FatehpurSikri4.png"
+                        },
+                        {
+                          "name": "D6_FatehpurSikri5.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/006_Fatehpur%20Sikri-Agra/002_Fatehpur%20Sikri/D6_FatehpurSikri5.jpg"
+                        }
+                      ]
                     }
                   ],
-                  "files": []
+                  "files": [
+                    {
+                      "name": "D6_FatehpurSikri2.png",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/006_Fatehpur%20Sikri-Agra/D6_FatehpurSikri2.png"
+                    }
+                  ]
+                },
+                {
+                  "name": "007_Agra",
+                  "children": [
+                    {
+                      "name": "001_Taj Mahal",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "D7_TajMahal.jpeg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/007_Agra/001_Taj%20Mahal/D7_TajMahal.jpeg"
+                        },
+                        {
+                          "name": "D7_TajMahal.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/007_Agra/001_Taj%20Mahal/D7_TajMahal.jpg"
+                        },
+                        {
+                          "name": "D7_TajMahal.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/007_Agra/001_Taj%20Mahal/D7_TajMahal.mp4"
+                        },
+                        {
+                          "name": "D7_TajMahal.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/007_Agra/001_Taj%20Mahal/D7_TajMahal.png"
+                        },
+                        {
+                          "name": "D7_TajMahal1.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/007_Agra/001_Taj%20Mahal/D7_TajMahal1.png"
+                        },
+                        {
+                          "name": "D7_TajMahal2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/007_Agra/001_Taj%20Mahal/D7_TajMahal2.png"
+                        },
+                        {
+                          "name": "D7_TajMahal3.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/007_Agra/001_Taj%20Mahal/D7_TajMahal3.jpg"
+                        },
+                        {
+                          "name": "D7_TajMahal4.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/007_Agra/001_Taj%20Mahal/D7_TajMahal4.jpg"
+                        },
+                        {
+                          "name": "D7_TajMahal4.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/007_Agra/001_Taj%20Mahal/D7_TajMahal4.png"
+                        },
+                        {
+                          "name": "D7_TajMahal5.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/007_Agra/001_Taj%20Mahal/D7_TajMahal5.jpg"
+                        },
+                        {
+                          "name": "D7_TajMahal5.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/007_Agra/001_Taj%20Mahal/D7_TajMahal5.png"
+                        },
+                        {
+                          "name": "D7_TajMahal6.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/007_Agra/001_Taj%20Mahal/D7_TajMahal6.png"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "002_Fuerte de Agra",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "D7_AgraFort.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/007_Agra/002_Fuerte%20de%20Agra/D7_AgraFort.mp4"
+                        },
+                        {
+                          "name": "D7_AgraFort.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/007_Agra/002_Fuerte%20de%20Agra/D7_AgraFort.png"
+                        },
+                        {
+                          "name": "D7_AgraFort2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/007_Agra/002_Fuerte%20de%20Agra/D7_AgraFort2.png"
+                        },
+                        {
+                          "name": "D7_AgraFort3.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/007_Agra/002_Fuerte%20de%20Agra/D7_AgraFort3.png"
+                        },
+                        {
+                          "name": "D7_AgraFort4.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/007_Agra/002_Fuerte%20de%20Agra/D7_AgraFort4.png"
+                        },
+                        {
+                          "name": "D7_FuertedeAgra1.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/007_Agra/002_Fuerte%20de%20Agra/D7_FuertedeAgra1.jpg"
+                        },
+                        {
+                          "name": "D7_FuertedeAgra2.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/007_Agra/002_Fuerte%20de%20Agra/D7_FuertedeAgra2.jpg"
+                        },
+                        {
+                          "name": "D7_FuertedeAgra3.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/007_Agra/002_Fuerte%20de%20Agra/D7_FuertedeAgra3.jpg"
+                        },
+                        {
+                          "name": "D7_FuertedeAgra4.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/007_Agra/002_Fuerte%20de%20Agra/D7_FuertedeAgra4.jpg"
+                        },
+                        {
+                          "name": "D7_FuertedeAgra5.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/007_Agra/002_Fuerte%20de%20Agra/D7_FuertedeAgra5.jpg"
+                        }
+                      ]
+                    }
+                  ],
+                  "files": [
+                    {
+                      "name": "D7_TajMahal5.png",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/007_Agra/D7_TajMahal5.png"
+                    }
+                  ]
                 }
               ],
               "files": []
