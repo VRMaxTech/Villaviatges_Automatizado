@@ -16228,6 +16228,58 @@
                       "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/007_Agra/D7_TajMahal5.png"
                     }
                   ]
+                },
+                {
+                  "name": "008_Jhansi – Orchha",
+                  "children": [
+                    {
+                      "name": "001_Raja Mahal",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "D8_RajaMahal_1.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/008_Jhansi%20%E2%80%93%20Orchha/001_Raja%20Mahal/D8_RajaMahal_1.mp4"
+                        },
+                        {
+                          "name": "D8_RajaMahal.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/008_Jhansi%20%E2%80%93%20Orchha/001_Raja%20Mahal/D8_RajaMahal.jpg"
+                        },
+                        {
+                          "name": "D8_RajaMahal.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/008_Jhansi%20%E2%80%93%20Orchha/001_Raja%20Mahal/D8_RajaMahal.png"
+                        },
+                        {
+                          "name": "D8_RajaMahal2.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/008_Jhansi%20%E2%80%93%20Orchha/001_Raja%20Mahal/D8_RajaMahal2.jpg"
+                        },
+                        {
+                          "name": "D8_RajaMahal2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/008_Jhansi%20%E2%80%93%20Orchha/001_Raja%20Mahal/D8_RajaMahal2.png"
+                        },
+                        {
+                          "name": "D8_RajaMahal3.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/008_Jhansi%20%E2%80%93%20Orchha/001_Raja%20Mahal/D8_RajaMahal3.jpg"
+                        },
+                        {
+                          "name": "D8_RajaMahal3.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/008_Jhansi%20%E2%80%93%20Orchha/001_Raja%20Mahal/D8_RajaMahal3.png"
+                        },
+                        {
+                          "name": "D8_RajaMahal4.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/008_Jhansi%20%E2%80%93%20Orchha/001_Raja%20Mahal/D8_RajaMahal4.jpg"
+                        },
+                        {
+                          "name": "D8_RajaMahal4.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/008_Jhansi%20%E2%80%93%20Orchha/001_Raja%20Mahal/D8_RajaMahal4.png"
+                        },
+                        {
+                          "name": "D8_RajaMahal5.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/008_Jhansi%20%E2%80%93%20Orchha/001_Raja%20Mahal/D8_RajaMahal5.jpg"
+                        }
+                      ]
+                    }
+                  ],
+                  "files": []
                 }
               ],
               "files": []
