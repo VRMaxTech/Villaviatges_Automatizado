@@ -3479,6 +3479,87 @@
                       "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/004_Serengeti/D4_Ngorongoro2.png"
                     }
                   ]
+                },
+                {
+                  "name": "005_Serengeti",
+                  "children": [
+                    {
+                      "name": "001_Safari",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "D5_Safari.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/005_Serengeti/001_Safari/D5_Safari.png"
+                        },
+                        {
+                          "name": "D5_Safari1.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/005_Serengeti/001_Safari/D5_Safari1.jpg"
+                        },
+                        {
+                          "name": "D5_Safari1.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/005_Serengeti/001_Safari/D5_Safari1.png"
+                        },
+                        {
+                          "name": "D5_Safari2.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/005_Serengeti/001_Safari/D5_Safari2.jpg"
+                        },
+                        {
+                          "name": "D5_Safari2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/005_Serengeti/001_Safari/D5_Safari2.png"
+                        },
+                        {
+                          "name": "D5_Safari3.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/005_Serengeti/001_Safari/D5_Safari3.jpg"
+                        },
+                        {
+                          "name": "D5_Safari3.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/005_Serengeti/001_Safari/D5_Safari3.png"
+                        },
+                        {
+                          "name": "D5_Safari4.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/005_Serengeti/001_Safari/D5_Safari4.jpg"
+                        },
+                        {
+                          "name": "D5_Safari5.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/005_Serengeti/001_Safari/D5_Safari5.jpg"
+                        },
+                        {
+                          "name": "Safari.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/005_Serengeti/001_Safari/Safari.mp4"
+                        }
+                      ]
+                    }
+                  ],
+                  "files": [
+                    {
+                      "name": "D5_Safari2.png",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/005_Serengeti/D5_Safari2.png"
+                    }
+                  ]
+                },
+                {
+                  "name": "006_Tarangire",
+                  "children": [
+                    {
+                      "name": "001_Parque Nacional Tarangire",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "D6_Tarangire.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/006_Tarangire/001_Parque%20Nacional%20Tarangire/D6_Tarangire.png"
+                        },
+                        {
+                          "name": "D6_Tarangire1.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/006_Tarangire/001_Parque%20Nacional%20Tarangire/D6_Tarangire1.png"
+                        },
+                        {
+                          "name": "D6_Tarangire2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/006_Tarangire/001_Parque%20Nacional%20Tarangire/D6_Tarangire2.png"
+                        }
+                      ]
+                    }
+                  ],
+                  "files": []
                 }
               ],
               "files": []
