@@ -3258,6 +3258,233 @@
             "y": -0.20399999618530273,
             "z": -0.16300000250339508
           }
+        },
+        {
+          "name": "Tanzania",
+          "children": [
+            {
+              "name": "Tanzania",
+              "children": [
+                {
+                  "name": "001_Vuelo a Arusha",
+                  "children": [
+                    {
+                      "name": "AvioLLegada",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "kk.txt",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/001_Vuelo%20a%20Arusha/AvioLLegada/kk.txt"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "AvioSalida",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "kk.txt",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/001_Vuelo%20a%20Arusha/AvioSalida/kk.txt"
+                        }
+                      ]
+                    }
+                  ],
+                  "files": [
+                    {
+                      "name": "D1_Arusha.png",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/001_Vuelo%20a%20Arusha/D1_Arusha.png"
+                    }
+                  ]
+                },
+                {
+                  "name": "002_Llegada a Arusha",
+                  "children": [],
+                  "files": [
+                    {
+                      "name": "D1_Arusha2.png",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/002_Llegada%20a%20Arusha/D1_Arusha2.png"
+                    }
+                  ]
+                },
+                {
+                  "name": "003_Karatu",
+                  "children": [
+                    {
+                      "name": "001_Lago Eyasi",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "D3_LagoEyasi.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/003_Karatu/001_Lago%20Eyasi/D3_LagoEyasi.jpg"
+                        },
+                        {
+                          "name": "D3_LagoEyasi.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/003_Karatu/001_Lago%20Eyasi/D3_LagoEyasi.mp4"
+                        },
+                        {
+                          "name": "D3_LagoEyasi1.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/003_Karatu/001_Lago%20Eyasi/D3_LagoEyasi1.png"
+                        },
+                        {
+                          "name": "D3_LagoEyasi2.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/003_Karatu/001_Lago%20Eyasi/D3_LagoEyasi2.jpg"
+                        },
+                        {
+                          "name": "D3_LagoEyasi2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/003_Karatu/001_Lago%20Eyasi/D3_LagoEyasi2.png"
+                        },
+                        {
+                          "name": "D3_LagoEyasi3.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/003_Karatu/001_Lago%20Eyasi/D3_LagoEyasi3.jpg"
+                        },
+                        {
+                          "name": "D3_LagoEyasi4.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/003_Karatu/001_Lago%20Eyasi/D3_LagoEyasi4.jpg"
+                        },
+                        {
+                          "name": "D3_LagoEyasi5.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/003_Karatu/001_Lago%20Eyasi/D3_LagoEyasi5.jpg"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "002_Tribu Blacksmith",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "D3_BlacksmithTribu1.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/003_Karatu/002_Tribu%20Blacksmith/D3_BlacksmithTribu1.jpg"
+                        },
+                        {
+                          "name": "D3_BlacksmithTribu2.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/003_Karatu/002_Tribu%20Blacksmith/D3_BlacksmithTribu2.jpg"
+                        },
+                        {
+                          "name": "D3_BlacksmithTribu3.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/003_Karatu/002_Tribu%20Blacksmith/D3_BlacksmithTribu3.jpg"
+                        },
+                        {
+                          "name": "D3_BlacksmithTribu4.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/003_Karatu/002_Tribu%20Blacksmith/D3_BlacksmithTribu4.jpg"
+                        },
+                        {
+                          "name": "D3_BlacksmithTribu5.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/003_Karatu/002_Tribu%20Blacksmith/D3_BlacksmithTribu5.jpg"
+                        },
+                        {
+                          "name": "D3_tribu.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/003_Karatu/002_Tribu%20Blacksmith/D3_tribu.mp4"
+                        }
+                      ]
+                    }
+                  ],
+                  "files": [
+                    {
+                      "name": "D1_Arusha3.png",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/003_Karatu/D1_Arusha3.png"
+                    }
+                  ]
+                },
+                {
+                  "name": "004_Serengeti",
+                  "children": [
+                    {
+                      "name": "001_Cráter Ngorongoro",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "D4_Crater1.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/004_Serengeti/001_Cr%C3%A1ter%20Ngorongoro/D4_Crater1.jpg"
+                        },
+                        {
+                          "name": "D4_Crater2.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/004_Serengeti/001_Cr%C3%A1ter%20Ngorongoro/D4_Crater2.jpg"
+                        },
+                        {
+                          "name": "D4_Crater3.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/004_Serengeti/001_Cr%C3%A1ter%20Ngorongoro/D4_Crater3.jpg"
+                        },
+                        {
+                          "name": "D4_Crater4.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/004_Serengeti/001_Cr%C3%A1ter%20Ngorongoro/D4_Crater4.jpg"
+                        },
+                        {
+                          "name": "D4_Crater5.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/004_Serengeti/001_Cr%C3%A1ter%20Ngorongoro/D4_Crater5.jpg"
+                        },
+                        {
+                          "name": "D4_Ngorongoro.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/004_Serengeti/001_Cr%C3%A1ter%20Ngorongoro/D4_Ngorongoro.mp4"
+                        },
+                        {
+                          "name": "D4_Ngorongoro.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/004_Serengeti/001_Cr%C3%A1ter%20Ngorongoro/D4_Ngorongoro.png"
+                        },
+                        {
+                          "name": "D4_Ngorongoro2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/004_Serengeti/001_Cr%C3%A1ter%20Ngorongoro/D4_Ngorongoro2.png"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "002_Parque Nacional",
+                      "children": [],
+                      "files": [
+                        {
+                          "name": "D4_NationalPark.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/004_Serengeti/002_Parque%20Nacional/D4_NationalPark.png"
+                        },
+                        {
+                          "name": "D4_NationalPark2.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/004_Serengeti/002_Parque%20Nacional/D4_NationalPark2.png"
+                        },
+                        {
+                          "name": "D4_NationalPark3.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/004_Serengeti/002_Parque%20Nacional/D4_NationalPark3.png"
+                        },
+                        {
+                          "name": "D4_NationalPark4.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/004_Serengeti/002_Parque%20Nacional/D4_NationalPark4.png"
+                        },
+                        {
+                          "name": "D4_ParqueNacional.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/004_Serengeti/002_Parque%20Nacional/D4_ParqueNacional.jpg"
+                        },
+                        {
+                          "name": "D4_PArqueNacional.mp4",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/004_Serengeti/002_Parque%20Nacional/D4_PArqueNacional.mp4"
+                        },
+                        {
+                          "name": "D4_ParqueNacional2.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/004_Serengeti/002_Parque%20Nacional/D4_ParqueNacional2.jpg"
+                        },
+                        {
+                          "name": "D4_ParqueNacional3.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/004_Serengeti/002_Parque%20Nacional/D4_ParqueNacional3.jpg"
+                        },
+                        {
+                          "name": "D4_ParqueNacional4.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/004_Serengeti/002_Parque%20Nacional/D4_ParqueNacional4.jpg"
+                        },
+                        {
+                          "name": "D4_ParqueNacional5.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/004_Serengeti/002_Parque%20Nacional/D4_ParqueNacional5.jpg"
+                        }
+                      ]
+                    }
+                  ],
+                  "files": [
+                    {
+                      "name": "D4_Ngorongoro2.png",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/%C3%81frica/Tanzania/Tanzania/004_Serengeti/D4_Ngorongoro2.png"
+                    }
+                  ]
+                }
+              ],
+              "files": []
+            }
+          ],
+          "files": []
         }
       ],
       "files": [],
@@ -16595,7 +16822,12 @@
                       ]
                     }
                   ],
-                  "files": []
+                  "files": [
+                    {
+                      "name": "360_BCN_1 (1).png",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/India/India%20del%20norte/011_Delhi%20-%20Barcelona/360_BCN_1%20(1).png"
+                    }
+                  ]
                 }
               ],
               "files": []
