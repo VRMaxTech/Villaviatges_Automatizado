@@ -1,3 +1,139 @@
 {
-  "entries": []
+  "entries": [
+    {
+      "path": "América Sur/Colombia/Colombia/007_Llegada a Medellín/001_York Luxury Suites",
+      "pinPos": {
+        "x": -0.10899999737739563,
+        "y": 0.16899999976158142,
+        "z": 0.20999999344348907
+      },
+      "files": [
+        "d7_hotelmedellin1.jpg",
+        "d7_hotelmedellin1_4k.png",
+        "d7_hotelmedellin2.jpg",
+        "d7_hotelmedellin2_4k.png",
+        "d7_hotelmedellin3.jpg",
+        "d7_hotelmedellin3_4k.png",
+        "d7_hotelmedellin4.jpg",
+        "hotel_medellin.mp3",
+        "ssvid.app---hotel-york-luxury-suites-medellín_1080pfhr.mp4"
+      ],
+      "remainingAutoRefreshes": 2
+    },
+    {
+      "path": "América Sur/Colombia/Colombia/008_Medellín/001_Pueblito Paisa",
+      "pinPos": {
+        "x": -0.22200000286102295,
+        "y": -0.296999990940094,
+        "z": -0.25600001215934753
+      },
+      "files": [
+        "d8_pueblitopaisa1.jpeg",
+        "d8_pueblitopaisa2.jpeg",
+        "d8_pueblitopaisa3.jpeg",
+        "d8_pueblitopaisa_4k.png",
+        "pueblitopaisa.mp3"
+      ],
+      "remainingAutoRefreshes": 2
+    },
+    {
+      "path": "América Sur/Colombia/Colombia/008_Medellín/003_Jardín Botánico",
+      "pinPos": {
+        "x": 0.125,
+        "y": 0.2529999911785126,
+        "z": 0.2939999997615814
+      },
+      "files": [
+        "d8_jardinbotanico2_4k.png",
+        "d8_jardinbotanico3_4k.png",
+        "d8_jardinbotanico4_4k.png",
+        "d8_jardinbotanico5_4k.png",
+        "d8_jardinbotanico6_4k.png",
+        "d8_jardinbotanico7_4k.png",
+        "d8_jardinbotanico_4k.png",
+        "d9_jardinbotanico.jpg",
+        "d9_jardinbotanico2.jpg",
+        "d9_jardinbotanico3.jpg",
+        "jardinbotanico.mp3"
+      ],
+      "remainingAutoRefreshes": 2
+    },
+    {
+      "path": "América Sur/Colombia/Colombia/010_Llegada a Cartagena/001_Hotel Charleston St.Teresa",
+      "pinPos": {
+        "x": -0.09399999678134918,
+        "y": 0.2720000147819519,
+        "z": 0.31200000643730164
+      },
+      "files": [
+        "charlestonstteresa.mp4",
+        "d10_cartagenacalle_4k.png",
+        "d10_cartagenadeindias_4k.png",
+        "d10_hotelcartagena.jpg",
+        "d10_hotelcartagena2.jpg",
+        "d10_hotelcartagena3.jpg",
+        "d10_hotelcartagena4.jpg",
+        "hotelcartagena.mp3"
+      ],
+      "remainingAutoRefreshes": 2
+    },
+    {
+      "path": "América Sur/Colombia/Colombia/011_Cartagena de Indias/002_Manga",
+      "pinPos": {
+        "x": 0.1509999930858612,
+        "y": -0.17399999499320984,
+        "z": -0.13300000131130219
+      },
+      "files": [
+        "d11_manga.jpg",
+        "d11_manga2.jpeg",
+        "d11_manga2_4k.png",
+        "d11_manga3.jpg",
+        "d11_manga3_4k.png",
+        "d11_manga4.jpg",
+        "d11_manga_4k.png",
+        "lamanga.mp3"
+      ],
+      "remainingAutoRefreshes": 2
+    },
+    {
+      "path": "América Sur/Colombia/Colombia/011_Cartagena de Indias/003_Centro Colonial",
+      "pinPos": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "files": [
+        "cartagenacentro.mp3",
+        "d11_centrocolonial.jpg",
+        "d11_centrocolonial2.jpg",
+        "d11_centrocolonial2_4k.png",
+        "d11_centrocolonial3.jpg",
+        "d11_centrocolonial3_4k.png",
+        "d11_centrocolonial4.jpg",
+        "d11_centrocolonial4_4k.png",
+        "d11_centrocolonial5_4k.png",
+        "d11_centrocolonial_4k.png"
+      ],
+      "remainingAutoRefreshes": 2
+    },
+    {
+      "path": "América Sur/Colombia/Colombia/012_Llegada a Isla Barú/001_Sofitel Barú Calablanca",
+      "pinPos": {
+        "x": -0.27300000190734863,
+        "y": -0.09700000286102295,
+        "z": -0.0560000017285347
+      },
+      "files": [
+        "d12_hotelislabaru.jpg",
+        "d12_hotelislabaru2.jpg",
+        "d12_hotelislabaru3.jpg",
+        "d12_hotelislabaru4.jpg",
+        "d12_hotelislabaru_4k.png",
+        "hotelbaru.mp3",
+        "hotelbaru.mp4"
+      ],
+      "remainingAutoRefreshes": 2
+    }
+  ]
 }
