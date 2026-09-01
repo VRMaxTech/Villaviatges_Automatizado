@@ -10764,6 +10764,46 @@
                           "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Colombia/Colombia/003_Bogot%C3%A1%20d%C3%ADa%20libre/001_D%C3%ADa%20libre%20Bogot%C3%A1/003_DiaLibre.mp4"
                         },
                         {
+                          "name": "Centro_MuseoBotero.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Colombia/Colombia/003_Bogot%C3%A1%20d%C3%ADa%20libre/001_D%C3%ADa%20libre%20Bogot%C3%A1/Centro_MuseoBotero.jpg"
+                        },
+                        {
+                          "name": "Centro_MuseoBotero2.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Colombia/Colombia/003_Bogot%C3%A1%20d%C3%ADa%20libre/001_D%C3%ADa%20libre%20Bogot%C3%A1/Centro_MuseoBotero2.jpg"
+                        },
+                        {
+                          "name": "Centro_museoBotero3.jpg",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Colombia/Colombia/003_Bogot%C3%A1%20d%C3%ADa%20libre/001_D%C3%ADa%20libre%20Bogot%C3%A1/Centro_museoBotero3.jpg"
+                        },
+                        {
+                          "name": "D3_MuseoBotero_Bogota_2_4k.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Colombia/Colombia/003_Bogot%C3%A1%20d%C3%ADa%20libre/001_D%C3%ADa%20libre%20Bogot%C3%A1/D3_MuseoBotero_Bogota_2_4k.png"
+                        },
+                        {
+                          "name": "D3_MuseoBotero_Bogota_4k.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Colombia/Colombia/003_Bogot%C3%A1%20d%C3%ADa%20libre/001_D%C3%ADa%20libre%20Bogot%C3%A1/D3_MuseoBotero_Bogota_4k.png"
+                        },
+                        {
+                          "name": "D3_MuseoBotero_Bogota_Interior_4k.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Colombia/Colombia/003_Bogot%C3%A1%20d%C3%ADa%20libre/001_D%C3%ADa%20libre%20Bogot%C3%A1/D3_MuseoBotero_Bogota_Interior_4k.png"
+                        },
+                        {
+                          "name": "D3_MuseoBotero_Bogota_Interior2_4k.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Colombia/Colombia/003_Bogot%C3%A1%20d%C3%ADa%20libre/001_D%C3%ADa%20libre%20Bogot%C3%A1/D3_MuseoBotero_Bogota_Interior2_4k.png"
+                        },
+                        {
+                          "name": "D3_MuseoBotero_Bogota_Interior3_4k.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Colombia/Colombia/003_Bogot%C3%A1%20d%C3%ADa%20libre/001_D%C3%ADa%20libre%20Bogot%C3%A1/D3_MuseoBotero_Bogota_Interior3_4k.png"
+                        },
+                        {
+                          "name": "D3_MuseoBotero_Bogota_Interior4_4k.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Colombia/Colombia/003_Bogot%C3%A1%20d%C3%ADa%20libre/001_D%C3%ADa%20libre%20Bogot%C3%A1/D3_MuseoBotero_Bogota_Interior4_4k.png"
+                        },
+                        {
+                          "name": "D3_MuseoBotero_Bogota_Interior5_4k.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Colombia/Colombia/003_Bogot%C3%A1%20d%C3%ADa%20libre/001_D%C3%ADa%20libre%20Bogot%C3%A1/D3_MuseoBotero_Bogota_Interior5_4k.png"
+                        },
+                        {
                           "name": "MuseoBotero.mp3",
                           "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Colombia/Colombia/003_Bogot%C3%A1%20d%C3%ADa%20libre/001_D%C3%ADa%20libre%20Bogot%C3%A1/MuseoBotero.mp3"
                         }
@@ -12337,6 +12377,11 @@
                   "name": "012_Llegada a Isla Barú",
                   "children": [
                     {
+                      "name": "001_Sofitel Barú Calablanca",
+                      "children": [],
+                      "files": []
+                    },
+                    {
                       "name": "AvioLLegada",
                       "children": [],
                       "files": [
@@ -12486,6 +12531,14 @@
                     {
                       "name": "012_Colombia.mp3",
                       "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Colombia/Colombia/012_Llegada%20a%20Isla%20Bar%C3%BA/012_Colombia.mp3"
+                    },
+                    {
+                      "name": "D12_HotelIslaBaru_4k.png",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Colombia/Colombia/012_Llegada%20a%20Isla%20Bar%C3%BA/D12_HotelIslaBaru_4k.png"
+                    },
+                    {
+                      "name": "Dia12.jpg",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Colombia/Colombia/012_Llegada%20a%20Isla%20Bar%C3%BA/Dia12.jpg"
                     }
                   ],
                   "pinPos": {
@@ -17663,14 +17716,6 @@
                         {
                           "name": "005_SantuarioItsukusima_1.png",
                           "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Jap%C3%B3n/Jap%C3%B3n%20Feudal/005_Hiroshima/001_Santuario%20Itsukushima/005_SantuarioItsukusima_1.png"
-                        },
-                        {
-                          "name": "005_SantuarioItsukusima_2.png",
-                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Jap%C3%B3n/Jap%C3%B3n%20Feudal/005_Hiroshima/001_Santuario%20Itsukushima/005_SantuarioItsukusima_2.png"
-                        },
-                        {
-                          "name": "005_SantuarioItsukusimaA_3.png",
-                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Jap%C3%B3n/Jap%C3%B3n%20Feudal/005_Hiroshima/001_Santuario%20Itsukushima/005_SantuarioItsukusimaA_3.png"
                         }
                       ],
                       "pinPos": {
