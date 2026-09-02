@@ -12337,6 +12337,11 @@
                   "name": "012_Llegada a Isla Barú",
                   "children": [
                     {
+                      "name": "001_Sofitel Barú Calablanca",
+                      "children": [],
+                      "files": []
+                    },
+                    {
                       "name": "AvioLLegada",
                       "children": [],
                       "files": [
@@ -12486,6 +12491,14 @@
                     {
                       "name": "012_Colombia.mp3",
                       "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Colombia/Colombia/012_Llegada%20a%20Isla%20Bar%C3%BA/012_Colombia.mp3"
+                    },
+                    {
+                      "name": "D12_HotelIslaBaru_4k.png",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Colombia/Colombia/012_Llegada%20a%20Isla%20Bar%C3%BA/D12_HotelIslaBaru_4k.png"
+                    },
+                    {
+                      "name": "Dia12.jpg",
+                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Colombia/Colombia/012_Llegada%20a%20Isla%20Bar%C3%BA/Dia12.jpg"
                     }
                   ],
                   "pinPos": {
@@ -12901,6 +12914,14 @@
                         {
                           "name": "D15_PBcartagena3.jpg",
                           "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Colombia/Colombia/015_Cartagena%20Libre/015_D%C3%ADa%20libre/D15_PBcartagena3.jpg"
+                        },
+                        {
+                          "name": "Dia15_CartagenaPlazaBolivar_4k.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Colombia/Colombia/015_Cartagena%20Libre/015_D%C3%ADa%20libre/Dia15_CartagenaPlazaBolivar_4k.png"
+                        },
+                        {
+                          "name": "Dia15_CartagenaPlazaBolivar2_4k.png",
+                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Colombia/Colombia/015_Cartagena%20Libre/015_D%C3%ADa%20libre/Dia15_CartagenaPlazaBolivar2_4k.png"
                         },
                         {
                           "name": "PlazaBolivar.mp3",
@@ -17663,14 +17684,6 @@
                         {
                           "name": "005_SantuarioItsukusima_1.png",
                           "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Jap%C3%B3n/Jap%C3%B3n%20Feudal/005_Hiroshima/001_Santuario%20Itsukushima/005_SantuarioItsukusima_1.png"
-                        },
-                        {
-                          "name": "005_SantuarioItsukusima_2.png",
-                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Jap%C3%B3n/Jap%C3%B3n%20Feudal/005_Hiroshima/001_Santuario%20Itsukushima/005_SantuarioItsukusima_2.png"
-                        },
-                        {
-                          "name": "005_SantuarioItsukusimaA_3.png",
-                          "url": "https://foto360.b-cdn.net/Vila_Viatges/Asia/Jap%C3%B3n/Jap%C3%B3n%20Feudal/005_Hiroshima/001_Santuario%20Itsukushima/005_SantuarioItsukusimaA_3.png"
                         }
                       ],
                       "pinPos": {
