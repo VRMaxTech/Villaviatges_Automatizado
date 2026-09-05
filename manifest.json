@@ -12337,11 +12337,6 @@
                   "name": "012_Llegada a Isla Barú",
                   "children": [
                     {
-                      "name": "001_Sofitel Barú Calablanca",
-                      "children": [],
-                      "files": []
-                    },
-                    {
                       "name": "AvioLLegada",
                       "children": [],
                       "files": [
@@ -12491,14 +12486,6 @@
                     {
                       "name": "012_Colombia.mp3",
                       "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Colombia/Colombia/012_Llegada%20a%20Isla%20Bar%C3%BA/012_Colombia.mp3"
-                    },
-                    {
-                      "name": "D12_HotelIslaBaru_4k.png",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Colombia/Colombia/012_Llegada%20a%20Isla%20Bar%C3%BA/D12_HotelIslaBaru_4k.png"
-                    },
-                    {
-                      "name": "Dia12.jpg",
-                      "url": "https://foto360.b-cdn.net/Vila_Viatges/Am%C3%A9rica%20Sur/Colombia/Colombia/012_Llegada%20a%20Isla%20Bar%C3%BA/Dia12.jpg"
                     }
                   ],
                   "pinPos": {
